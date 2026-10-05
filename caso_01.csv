@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Unidades,Monto_S
+V01-007,2026-09-03,San Isidro,Aceite 1 L,6,56.53
+V01-031,2026-09-03,Lima Centro,Atún en lata,3,16.95
+V01-048,2026-09-03,Lima Centro,Azúcar 1 kg,3,12.37
+V01-054,2026-09-03,Miraflores,Azúcar 1 kg,6,25.84
+V01-017,2026-09-04,Lima Centro,Arroz 5 kg,3,71.03
+V01-025,2026-09-04,La Molina,Aceite 1 L,1,9.28
+V01-002,2026-09-05,Lima Centro,Fideos 500 g,3,9.44
+V01-027,2026-09-05,Miraflores,Fideos 500 g,5,16.4
+V01-037,2026-09-05,Surco,Atún en lata,3,16.88
+V01-015,2026-09-07,Surco,Atún en lata,2,10.88
+V01-046,2026-09-07,Miraflores,Atún en lata,3,16.12
+V01-057,2026-09-07,Lima Centro,Azúcar 1 kg,5,21.28
+V01-029,2026-09-08,Surco,Aceite 1 L,8,75.79
+V01-014,2026-09-09,Miraflores,Atún en lata,7,38.23
+V01-021,2026-09-09,Lima Centro,Leche evaporada,3,11.56
+V01-023,2026-09-09,Miraflores,Atún en lata,5,26.9
+V01-032,2026-09-09,San Isidro,Leche evaporada,3,11.36
+V01-033,2026-09-09,Lima Centro,Leche evaporada,4,15.17
+V01-034,2026-09-09,San Isidro,Fideos 500 g,6,18.84
+V01-013,2026-09-10,Lima Centro,Aceite 1 L,3,29.14
+V01-043,2026-09-13,Lima Centro,Arroz 5 kg,3,73.5
+V01-006,2026-09-14,La Molina,Fideos 500 g,3,9.74
+V01-060,2026-09-14,La Molina,Atún en lata,8,43.69
+V01-008,2026-09-15,La Molina,Leche evaporada,3,11.44
+V01-038,2026-09-15,Miraflores,Fideos 500 g,3,9.46
+V01-041,2026-09-15,Lima Centro,Fideos 500 g,8,24.86
+V01-016,2026-09-16,San Isidro,Azúcar 1 kg,3,12.33
+V01-012,2026-09-17,Lima Centro,Leche evaporada,4,15.63
+V01-053,2026-09-17,Miraflores,Azúcar 1 kg,3,12.27
+V01-011,2026-09-19,La Molina,Azúcar 1 kg,3,12.38
+V01-051,2026-09-19,Surco,Atún en lata,6,32.5
+V01-004,2026-09-20,Miraflores,Azúcar 1 kg,3,12.33
+V01-040,2026-09-20,Lima Centro,Azúcar 1 kg,4,17.02
+V01-059,2026-09-20,Surco,Arroz 5 kg,3,71.06
+V01-044,2026-09-21,Miraflores,Aceite 1 L,6,58.65
+V01-036,2026-09-23,Lima Centro,Leche evaporada,8,30.91
+V01-039,2026-09-23,Surco,Azúcar 1 kg,3,12.3
+V01-009,2026-09-24,Miraflores,Fideos 500 g,3,9.49
+V01-018,2026-09-24,Miraflores,Aceite 1 L,3,28.19
+V01-042,2026-09-24,La Molina,Aceite 1 L,8,75.09
+V01-028,2026-09-25,Miraflores,Leche evaporada,3,11.66
+V01-035,2026-09-25,Surco,Arroz 5 kg,5,117.16
+V01-052,2026-09-26,San Isidro,Fideos 500 g,3,9.61
+V01-005,2026-09-27,Miraflores,Azúcar 1 kg,1,4.23
+V01-019,2026-09-27,Surco,Fideos 500 g,3,9.71
+V01-020,2026-09-27,Surco,Aceite 1 L,3,29.02
+V01-022,2026-09-27,Surco,Aceite 1 L,6,56.62
+V01-045,2026-09-27,Surco,Azúcar 1 kg,6,25.57
+V01-049,2026-09-27,Miraflores,Aceite 1 L,3,28.81
+V01-050,2026-09-27,Miraflores,Atún en lata,1,5.4
+V01-010,2026-09-28,San Isidro,Atún en lata,3,16.62
+V01-026,2026-09-28,Surco,Azúcar 1 kg,6,25.54
+V01-055,2026-09-28,Lima Centro,Fideos 500 g,3,9.45
+V01-056,2026-09-28,La Molina,Fideos 500 g,2,6.21
+V01-001,2026-09-29,La Molina,Fideos 500 g,4,12.99
+V01-003,2026-09-29,San Isidro,Arroz 5 kg,2,48.22
+V01-030,2026-09-29,San Isidro,Fideos 500 g,3,9.88
+V01-047,2026-09-29,La Molina,Aceite 1 L,7,67.93
+V01-024,2026-09-30,Miraflores,Azúcar 1 kg,5,21.25
+V01-058,2026-09-30,Lima Centro,Azúcar 1 kg,3,12.63

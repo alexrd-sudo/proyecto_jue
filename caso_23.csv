@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Trabajo,Unidades,Monto_S
+V23-008,2026-09-01,Lima Centro,Volantes (500),4,281.64
+V23-022,2026-09-01,Surco,Volantes (500),4,284.45
+V23-036,2026-09-01,Surco,Volantes (500),3,208.63
+V23-053,2026-09-01,Lima Centro,Fotocopias (100),4,31.05
+V23-045,2026-09-02,Surco,Fotocopias (100),6,46.61
+V23-050,2026-09-02,Miraflores,Tarjetas (100),4,100.49
+V23-016,2026-09-03,Surco,Anillado,7,42.78
+V23-046,2026-09-03,Lima Centro,Tazas personalizadas,1,20.47
+V23-024,2026-09-04,San Isidro,Anillado,6,36.66
+V23-032,2026-09-04,Surco,Tarjetas (100),5,125.28
+V23-040,2026-09-04,Lima Centro,Fotocopias (100),5,40.86
+V23-056,2026-09-04,Lima Centro,Tarjetas (100),4,100.96
+V23-009,2026-09-05,Surco,Tarjetas (100),6,149.68
+V23-019,2026-09-05,San Isidro,Fotocopias (100),8,62.75
+V23-012,2026-09-06,Lima Centro,Anillado,6,35.01
+V23-054,2026-09-06,Surco,Tarjetas (100),4,101.76
+V23-002,2026-09-07,Surco,Fotocopias (100),7,57.43
+V23-020,2026-09-07,La Molina,Volantes (500),4,276.07
+V23-059,2026-09-08,Lima Centro,Tarjetas (100),8,194.17
+V23-027,2026-09-10,Surco,Fotocopias (100),4,32.6
+V23-057,2026-09-10,La Molina,Banner,6,541.83
+V23-021,2026-09-11,Surco,Tarjetas (100),7,174.72
+V23-025,2026-09-11,Surco,Banner,2,182.53
+V23-041,2026-09-11,Surco,Tazas personalizadas,8,163.6
+V23-005,2026-09-12,Surco,Anillado,4,23.64
+V23-017,2026-09-12,San Isidro,Tarjetas (100),4,99.56
+V23-018,2026-09-12,La Molina,Volantes (500),2,143.08
+V23-049,2026-09-12,Surco,Volantes (500),4,273.82
+V23-034,2026-09-13,Surco,Tarjetas (100),4,98.17
+V23-052,2026-09-13,Miraflores,Tazas personalizadas,3,59.38
+V23-043,2026-09-14,Surco,Tazas personalizadas,4,80.66
+V23-001,2026-09-15,San Isidro,Volantes (500),4,275.99
+V23-039,2026-09-15,La Molina,Volantes (500),4,273.18
+V23-055,2026-09-15,Miraflores,Tarjetas (100),3,73.37
+V23-013,2026-09-16,Surco,Fotocopias (100),2,16.21
+V23-004,2026-09-17,Surco,Fotocopias (100),7,54.77
+V23-035,2026-09-17,Surco,Anillado,4,24.02
+V23-031,2026-09-18,Miraflores,Fotocopias (100),4,31.12
+V23-007,2026-09-19,San Isidro,Fotocopias (100),6,48.86
+V23-015,2026-09-20,Surco,Banner,4,365.34
+V23-023,2026-09-20,San Isidro,Banner,2,181.06
+V23-028,2026-09-20,Lima Centro,Fotocopias (100),4,31.43
+V23-029,2026-09-20,Surco,Anillado,6,36.6
+V23-042,2026-09-20,Surco,Banner,7,634.98
+V23-003,2026-09-22,Surco,Fotocopias (100),3,23.95
+V23-011,2026-09-22,Surco,Volantes (500),1,68.58
+V23-038,2026-09-23,Lima Centro,Tazas personalizadas,5,98.2
+V23-014,2026-09-24,Surco,Volantes (500),7,490.1
+V23-030,2026-09-24,Lima Centro,Tarjetas (100),2,50.71
+V23-010,2026-09-25,Lima Centro,Volantes (500),5,340.13
+V23-047,2026-09-25,San Isidro,Volantes (500),4,283.52
+V23-048,2026-09-25,Lima Centro,Fotocopias (100),7,54.57
+V23-051,2026-09-25,Lima Centro,Volantes (500),1,68.19
+V23-037,2026-09-27,Miraflores,Anillado,2,12.3
+V23-033,2026-09-28,La Molina,Banner,4,361.56
+V23-044,2026-09-28,La Molina,Tazas personalizadas,7,136.25
+V23-058,2026-09-29,Surco,Tarjetas (100),1,25.55
+V23-006,2026-09-30,Lima Centro,Volantes (500),4,281.7
+V23-026,2026-09-30,San Isidro,Tazas personalizadas,3,61.08
+V23-060,2026-09-30,Surco,Volantes (500),3,215.55

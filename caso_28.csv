@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Modelo,Pares,Monto_S
+V28-032,2026-09-01,La Molina,Pantufla,2,61.08
+V28-048,2026-09-01,Lima Centro,Zapatilla urbana,8,1290.22
+V28-049,2026-09-01,Lima Centro,Zapato escolar,3,281.51
+V28-001,2026-09-02,San Isidro,Sandalia,5,345.73
+V28-029,2026-09-02,Surco,Botín,1,208.08
+V28-003,2026-09-04,Lima Centro,Zapato de vestir,5,907.23
+V28-023,2026-09-04,San Isidro,Botín,2,423.17
+V28-034,2026-09-04,Lima Centro,Botín,2,426.21
+V28-011,2026-09-06,Miraflores,Pantufla,8,241.38
+V28-016,2026-09-06,Lima Centro,Botín,6,1267.54
+V28-036,2026-09-06,Surco,Sandalia,3,209.18
+V28-050,2026-09-06,Lima Centro,Botín,3,613.05
+V28-041,2026-09-08,Surco,Zapato de vestir,3,547.24
+V28-056,2026-09-08,Miraflores,Sandalia,8,544.43
+V28-024,2026-09-09,Surco,Botín,3,635.09
+V28-028,2026-09-09,Lima Centro,Botín,1,215.19
+V28-033,2026-09-09,Surco,Pantufla,1,30.49
+V28-007,2026-09-10,Surco,Zapato de vestir,3,524.15
+V28-015,2026-09-10,Lima Centro,Botín,3,641.47
+V28-040,2026-09-10,Lima Centro,Pantufla,6,178.59
+V28-060,2026-09-10,Lima Centro,Zapato escolar,7,669.14
+V28-045,2026-09-11,Lima Centro,Botín,3,627.84
+V28-052,2026-09-11,La Molina,Sandalia,3,214.16
+V28-039,2026-09-12,Miraflores,Botín,1,207.01
+V28-057,2026-09-12,Lima Centro,Pantufla,7,206.77
+V28-012,2026-09-13,San Isidro,Zapato de vestir,5,874.8
+V28-026,2026-09-13,San Isidro,Botín,3,644.52
+V28-035,2026-09-13,La Molina,Zapato de vestir,3,542.3
+V28-005,2026-09-14,San Isidro,Botín,6,1284.8
+V28-058,2026-09-14,Lima Centro,Botín,3,646.61
+V28-014,2026-09-15,Lima Centro,Zapato de vestir,8,1410.3
+V28-027,2026-09-15,Lima Centro,Pantufla,5,146.14
+V28-004,2026-09-16,Lima Centro,Botín,1,215.79
+V28-025,2026-09-17,Surco,Zapato escolar,5,479.7
+V28-031,2026-09-17,San Isidro,Sandalia,5,354.91
+V28-021,2026-09-18,Miraflores,Botín,2,427.97
+V28-042,2026-09-19,Miraflores,Pantufla,7,207.33
+V28-047,2026-09-19,Lima Centro,Botín,1,211.54
+V28-038,2026-09-20,Miraflores,Zapato de vestir,8,1446.77
+V28-002,2026-09-21,San Isidro,Pantufla,6,175.05
+V28-017,2026-09-21,Miraflores,Botín,3,623.95
+V28-019,2026-09-21,San Isidro,Botín,8,1661.62
+V28-059,2026-09-21,Lima Centro,Sandalia,1,70.59
+V28-006,2026-09-22,Miraflores,Botín,7,1440.65
+V28-008,2026-09-22,La Molina,Zapatilla urbana,3,467.81
+V28-018,2026-09-22,San Isidro,Sandalia,3,211.62
+V28-030,2026-09-23,La Molina,Zapato de vestir,8,1471.62
+V28-051,2026-09-23,Miraflores,Pantufla,5,150.54
+V28-020,2026-09-24,La Molina,Botín,3,642.97
+V28-022,2026-09-24,Lima Centro,Zapato de vestir,7,1239.57
+V28-046,2026-09-24,San Isidro,Zapato de vestir,8,1468.63
+V28-044,2026-09-25,Surco,Botín,2,425.98
+V28-055,2026-09-25,Surco,Zapato de vestir,4,717.74
+V28-009,2026-09-26,San Isidro,Botín,3,613.04
+V28-010,2026-09-27,Surco,Zapato escolar,3,282.89
+V28-043,2026-09-27,Surco,Sandalia,7,487.75
+V28-037,2026-09-29,La Molina,Botín,3,643.72
+V28-013,2026-09-30,Lima Centro,Sandalia,4,277.9
+V28-053,2026-09-30,Lima Centro,Zapato de vestir,8,1474.71
+V28-054,2026-09-30,Surco,Pantufla,5,146.86

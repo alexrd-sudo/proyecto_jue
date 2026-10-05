@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Sabor,Pizzas,Monto_S
+V26-013,2026-09-01,La Molina,Americana,3,95.08
+V26-040,2026-09-01,San Isidro,Americana,5,164.24
+V26-041,2026-09-02,La Molina,Americana,7,218.47
+V26-045,2026-09-03,San Isidro,Hawaiana,3,101.56
+V26-019,2026-09-04,Surco,Vegetariana,5,160.99
+V26-031,2026-09-04,San Isidro,Margarita,4,122.67
+V26-017,2026-09-05,San Isidro,Americana,3,95.49
+V26-039,2026-09-06,Lima Centro,Hawaiana,2,66.66
+V26-001,2026-09-07,San Isidro,Vegetariana,7,226.56
+V26-028,2026-09-07,Lima Centro,Americana,1,31.44
+V26-008,2026-09-09,San Isidro,Pepperoni,5,180.95
+V26-023,2026-09-09,Surco,Vegetariana,3,99.83
+V26-029,2026-09-09,Surco,Americana,7,217.82
+V26-007,2026-09-10,Lima Centro,Americana,4,125.82
+V26-027,2026-09-10,La Molina,Cuatro quesos,3,112.47
+V26-025,2026-09-12,Surco,Hawaiana,2,69.75
+V26-052,2026-09-12,San Isidro,Hawaiana,3,101.94
+V26-020,2026-09-13,Lima Centro,Vegetariana,5,169.5
+V26-033,2026-09-13,Lima Centro,Pepperoni,3,108.78
+V26-043,2026-09-13,La Molina,Pepperoni,7,247.92
+V26-002,2026-09-14,San Isidro,Hawaiana,1,34.47
+V26-006,2026-09-14,San Isidro,Americana,3,94.24
+V26-026,2026-09-14,Lima Centro,Vegetariana,3,98.31
+V26-037,2026-09-14,Lima Centro,Pepperoni,3,106.46
+V26-047,2026-09-14,San Isidro,Vegetariana,5,162.04
+V26-003,2026-09-15,Miraflores,Americana,6,188.86
+V26-035,2026-09-15,Surco,Margarita,5,150.68
+V26-046,2026-09-15,San Isidro,Americana,8,254.2
+V26-050,2026-09-15,Miraflores,Margarita,4,119.24
+V26-022,2026-09-16,Lima Centro,Margarita,3,89.23
+V26-030,2026-09-16,San Isidro,Americana,1,32.58
+V26-044,2026-09-16,La Molina,Americana,6,197.25
+V26-053,2026-09-17,Miraflores,Pepperoni,2,71.07
+V26-015,2026-09-18,Miraflores,Hawaiana,3,101.53
+V26-048,2026-09-18,Surco,Americana,4,130.68
+V26-034,2026-09-19,Surco,Margarita,3,87.89
+V26-058,2026-09-19,Lima Centro,Hawaiana,4,135.29
+V26-011,2026-09-20,Surco,Vegetariana,2,67.03
+V26-012,2026-09-20,San Isidro,Hawaiana,4,134.03
+V26-051,2026-09-20,La Molina,Hawaiana,4,132.3
+V26-055,2026-09-20,San Isidro,Americana,1,31.06
+V26-005,2026-09-21,San Isidro,Cuatro quesos,6,229.63
+V26-014,2026-09-21,Surco,Hawaiana,3,101.06
+V26-042,2026-09-21,Miraflores,Americana,3,95.12
+V26-056,2026-09-21,Lima Centro,Vegetariana,1,33.07
+V26-060,2026-09-21,San Isidro,Hawaiana,1,34.58
+V26-054,2026-09-22,Lima Centro,Americana,7,218.59
+V26-024,2026-09-23,La Molina,Hawaiana,3,103.74
+V26-004,2026-09-24,Surco,Hawaiana,3,102.92
+V26-010,2026-09-25,Lima Centro,Americana,7,229.29
+V26-059,2026-09-25,Surco,Americana,3,93.32
+V26-057,2026-09-26,San Isidro,Americana,7,225.51
+V26-009,2026-09-27,Surco,Hawaiana,7,231.72
+V26-021,2026-09-27,Surco,Vegetariana,3,100.82
+V26-038,2026-09-27,La Molina,Cuatro quesos,2,77.15
+V26-032,2026-09-28,Surco,Vegetariana,8,259.66
+V26-016,2026-09-29,Lima Centro,Hawaiana,3,100.26
+V26-036,2026-09-29,La Molina,Americana,3,94.49
+V26-018,2026-09-30,San Isidro,Pepperoni,6,217.92
+V26-049,2026-09-30,Lima Centro,Hawaiana,2,68.17

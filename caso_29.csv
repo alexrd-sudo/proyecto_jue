@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Unidades,Monto_S
+V29-016,2026-09-02,La Molina,Labial,1,34.69
+V29-010,2026-09-03,Lima Centro,Crema facial,1,55.04
+V29-045,2026-09-03,Lima Centro,Perfume,5,733.04
+V29-024,2026-09-05,Miraflores,Base de maquillaje,2,129.99
+V29-008,2026-09-07,Surco,Crema facial,2,110.58
+V29-018,2026-09-07,Surco,Perfume,5,758.16
+V29-040,2026-09-07,San Isidro,Base de maquillaje,6,391.96
+V29-015,2026-09-08,Miraflores,Crema facial,3,167.88
+V29-030,2026-09-08,La Molina,Crema facial,8,441.4
+V29-055,2026-09-08,Lima Centro,Base de maquillaje,5,323.84
+V29-013,2026-09-11,San Isidro,Perfume,8,1189.92
+V29-017,2026-09-11,Lima Centro,Esmalte de uñas,2,23.41
+V29-025,2026-09-12,Miraflores,Crema facial,1,56.34
+V29-029,2026-09-12,Surco,Esmalte de uñas,8,93.29
+V29-031,2026-09-12,Miraflores,Crema facial,2,108.37
+V29-042,2026-09-12,Miraflores,Perfume,2,305.99
+V29-051,2026-09-12,Lima Centro,Base de maquillaje,6,398.71
+V29-009,2026-09-13,Surco,Crema facial,8,444.81
+V29-052,2026-09-14,Miraflores,Base de maquillaje,3,191.0
+V29-022,2026-09-15,Miraflores,Labial,7,241.51
+V29-023,2026-09-15,Lima Centro,Labial,8,278.1
+V29-028,2026-09-15,La Molina,Base de maquillaje,2,126.63
+V29-003,2026-09-16,San Isidro,Base de maquillaje,7,451.3
+V29-056,2026-09-16,San Isidro,Perfume,8,1233.88
+V29-007,2026-09-17,Lima Centro,Crema facial,3,160.52
+V29-047,2026-09-17,Miraflores,Base de maquillaje,2,126.47
+V29-019,2026-09-18,Surco,Crema facial,2,106.86
+V29-049,2026-09-18,Lima Centro,Base de maquillaje,4,253.44
+V29-005,2026-09-19,La Molina,Crema facial,2,112.97
+V29-046,2026-09-19,Lima Centro,Crema facial,3,160.43
+V29-002,2026-09-20,Miraflores,Esmalte de uñas,8,98.51
+V29-021,2026-09-20,Surco,Perfume,7,1052.46
+V29-033,2026-09-20,Surco,Esmalte de uñas,8,96.78
+V29-058,2026-09-20,San Isidro,Crema facial,2,111.49
+V29-004,2026-09-21,San Isidro,Labial,4,141.91
+V29-043,2026-09-21,Miraflores,Crema facial,2,107.81
+V29-012,2026-09-22,Lima Centro,Labial,3,106.77
+V29-054,2026-09-23,San Isidro,Crema facial,6,328.61
+V29-032,2026-09-24,San Isidro,Base de maquillaje,8,535.24
+V29-035,2026-09-24,La Molina,Shampoo,4,110.08
+V29-060,2026-09-24,San Isidro,Labial,2,70.32
+V29-027,2026-09-25,Lima Centro,Crema facial,8,434.4
+V29-011,2026-09-26,Lima Centro,Base de maquillaje,8,510.6
+V29-038,2026-09-26,Miraflores,Crema facial,8,451.35
+V29-057,2026-09-26,Surco,Base de maquillaje,4,257.01
+V29-006,2026-09-27,La Molina,Esmalte de uñas,2,24.6
+V29-037,2026-09-27,La Molina,Esmalte de uñas,5,58.81
+V29-041,2026-09-27,Lima Centro,Crema facial,3,162.85
+V29-044,2026-09-27,Miraflores,Crema facial,4,214.95
+V29-059,2026-09-27,San Isidro,Base de maquillaje,1,65.55
+V29-014,2026-09-29,Lima Centro,Crema facial,2,110.11
+V29-020,2026-09-29,Lima Centro,Crema facial,8,439.47
+V29-026,2026-09-29,Lima Centro,Crema facial,5,271.27
+V29-034,2026-09-29,Miraflores,Crema facial,8,447.78
+V29-036,2026-09-29,Miraflores,Base de maquillaje,1,64.12
+V29-048,2026-09-29,San Isidro,Perfume,7,1021.35
+V29-050,2026-09-29,La Molina,Perfume,2,301.08
+V29-001,2026-09-30,San Isidro,Perfume,2,304.34
+V29-039,2026-09-30,Miraflores,Perfume,4,616.47
+V29-053,2026-09-30,Surco,Shampoo,2,55.7

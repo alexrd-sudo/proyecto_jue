@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Tipo_de_envío,Envíos,Monto_S
+V12-043,2026-09-01,La Molina,Paquete pequeño,3,35.26
+V12-002,2026-09-02,Miraflores,Urgente,2,50.48
+V12-015,2026-09-02,Lima Centro,Paquete mediano,7,128.79
+V12-012,2026-09-03,Miraflores,Documento,5,39.45
+V12-027,2026-09-03,Miraflores,Paquete mediano,8,141.77
+V12-055,2026-09-03,San Isidro,Urgente,3,75.74
+V12-006,2026-09-05,Surco,Paquete grande,7,211.03
+V12-011,2026-09-05,San Isidro,Paquete mediano,5,87.44
+V12-031,2026-09-07,Lima Centro,Documento,2,16.36
+V12-018,2026-09-09,Surco,Paquete mediano,3,54.36
+V12-022,2026-09-09,La Molina,Paquete mediano,6,109.04
+V12-035,2026-09-09,Surco,Paquete mediano,3,54.03
+V12-046,2026-09-10,Lima Centro,Paquete mediano,3,52.78
+V12-038,2026-09-11,Miraflores,Documento,8,63.36
+V12-040,2026-09-11,San Isidro,Paquete mediano,5,90.83
+V12-051,2026-09-11,Surco,Urgente,1,25.28
+V12-058,2026-09-11,San Isidro,Paquete grande,7,205.8
+V12-013,2026-09-12,Miraflores,Paquete mediano,6,110.54
+V12-021,2026-09-12,La Molina,Comida,4,39.83
+V12-037,2026-09-12,La Molina,Documento,1,8.06
+V12-007,2026-09-13,Miraflores,Documento,3,23.58
+V12-033,2026-09-13,Miraflores,Paquete mediano,3,53.38
+V12-044,2026-09-13,La Molina,Urgente,4,101.72
+V12-019,2026-09-15,Lima Centro,Documento,5,39.61
+V12-025,2026-09-15,Lima Centro,Documento,4,31.85
+V12-029,2026-09-16,San Isidro,Paquete mediano,5,88.06
+V12-004,2026-09-17,Lima Centro,Paquete mediano,2,36.06
+V12-056,2026-09-17,La Molina,Documento,6,48.1
+V12-041,2026-09-18,La Molina,Paquete mediano,4,71.15
+V12-003,2026-09-19,Lima Centro,Documento,3,23.4
+V12-028,2026-09-19,Lima Centro,Paquete pequeño,3,36.78
+V12-059,2026-09-19,Miraflores,Paquete pequeño,6,71.52
+V12-016,2026-09-20,La Molina,Paquete mediano,1,18.38
+V12-030,2026-09-21,San Isidro,Comida,6,59.64
+V12-036,2026-09-21,San Isidro,Comida,7,70.06
+V12-047,2026-09-21,San Isidro,Urgente,5,126.55
+V12-045,2026-09-22,Surco,Documento,2,16.03
+V12-060,2026-09-22,La Molina,Paquete mediano,1,18.25
+V12-008,2026-09-23,Miraflores,Paquete mediano,3,53.5
+V12-032,2026-09-23,Miraflores,Urgente,2,49.88
+V12-005,2026-09-24,Miraflores,Paquete mediano,3,52.75
+V12-026,2026-09-25,Miraflores,Urgente,4,99.33
+V12-017,2026-09-26,Lima Centro,Documento,3,23.9
+V12-024,2026-09-26,La Molina,Paquete grande,7,208.61
+V12-042,2026-09-26,La Molina,Urgente,3,75.65
+V12-048,2026-09-26,La Molina,Paquete pequeño,5,59.62
+V12-053,2026-09-26,La Molina,Paquete mediano,3,55.3
+V12-001,2026-09-27,San Isidro,Documento,4,31.77
+V12-023,2026-09-27,Lima Centro,Paquete pequeño,7,85.9
+V12-039,2026-09-27,Lima Centro,Paquete mediano,3,55.12
+V12-014,2026-09-28,Lima Centro,Paquete mediano,3,55.29
+V12-020,2026-09-28,Miraflores,Paquete mediano,3,55.39
+V12-034,2026-09-28,La Molina,Paquete mediano,3,54.0
+V12-049,2026-09-28,Lima Centro,Comida,5,50.45
+V12-054,2026-09-28,La Molina,Paquete mediano,5,92.46
+V12-057,2026-09-28,Miraflores,Paquete mediano,6,105.87
+V12-009,2026-09-30,Surco,Urgente,1,24.59
+V12-010,2026-09-30,Surco,Paquete mediano,3,54.6
+V12-050,2026-09-30,Lima Centro,Documento,2,15.91
+V12-052,2026-09-30,La Molina,Documento,1,8.08

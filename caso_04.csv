@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Material,Unidades,Monto_S
+V04-007,2026-09-01,Surco,Tubo PVC 2 m,3,36.44
+V04-028,2026-09-01,San Isidro,Cinta aislante,1,3.5
+V04-057,2026-09-01,La Molina,Cemento (bolsa),4,119.22
+V04-023,2026-09-02,Lima Centro,Cinta aislante,8,28.49
+V04-017,2026-09-03,Lima Centro,Foco LED,4,23.38
+V04-053,2026-09-03,San Isidro,Cinta aislante,4,14.11
+V04-059,2026-09-03,Surco,Cemento (bolsa),6,172.77
+V04-022,2026-09-04,Lima Centro,Pintura blanca (galón),4,178.57
+V04-008,2026-09-07,San Isidro,Clavos 2 pulg (kg),5,39.4
+V04-013,2026-09-07,San Isidro,Clavos 2 pulg (kg),4,32.29
+V04-042,2026-09-07,San Isidro,Cemento (bolsa),4,118.17
+V04-050,2026-09-07,La Molina,Cemento (bolsa),5,142.74
+V04-051,2026-09-07,Surco,Cemento (bolsa),2,57.98
+V04-039,2026-09-08,Lima Centro,Clavos 2 pulg (kg),4,32.01
+V04-056,2026-09-08,Surco,Cinta aislante,5,17.31
+V04-009,2026-09-09,San Isidro,Cinta aislante,4,13.95
+V04-016,2026-09-09,La Molina,Clavos 2 pulg (kg),4,32.37
+V04-048,2026-09-09,San Isidro,Pintura blanca (galón),7,323.88
+V04-003,2026-09-10,San Isidro,Cemento (bolsa),8,235.21
+V04-024,2026-09-10,La Molina,Cinta aislante,5,16.99
+V04-034,2026-09-11,Lima Centro,Cemento (bolsa),4,115.58
+V04-058,2026-09-11,San Isidro,Cemento (bolsa),4,118.44
+V04-011,2026-09-12,La Molina,Pintura blanca (galón),4,175.71
+V04-052,2026-09-12,Lima Centro,Foco LED,2,12.14
+V04-046,2026-09-13,Surco,Clavos 2 pulg (kg),7,54.86
+V04-005,2026-09-14,La Molina,Foco LED,1,5.92
+V04-010,2026-09-15,La Molina,Cemento (bolsa),1,28.75
+V04-031,2026-09-15,San Isidro,Cinta aislante,6,20.48
+V04-033,2026-09-15,Surco,Tubo PVC 2 m,4,47.74
+V04-054,2026-09-15,La Molina,Cinta aislante,4,14.04
+V04-027,2026-09-16,Miraflores,Cemento (bolsa),5,144.36
+V04-030,2026-09-16,Surco,Cemento (bolsa),2,59.6
+V04-036,2026-09-16,Surco,Cemento (bolsa),4,117.61
+V04-060,2026-09-17,Lima Centro,Pintura blanca (galón),4,183.4
+V04-014,2026-09-18,Lima Centro,Cinta aislante,2,6.83
+V04-044,2026-09-18,Miraflores,Clavos 2 pulg (kg),4,31.78
+V04-019,2026-09-19,San Isidro,Cinta aislante,4,13.68
+V04-029,2026-09-19,San Isidro,Cemento (bolsa),8,231.48
+V04-047,2026-09-20,Surco,Foco LED,2,12.18
+V04-026,2026-09-21,Miraflores,Cemento (bolsa),2,57.13
+V04-040,2026-09-21,La Molina,Foco LED,4,23.86
+V04-055,2026-09-21,Lima Centro,Foco LED,4,23.58
+V04-001,2026-09-22,Surco,Pintura blanca (galón),2,92.07
+V04-012,2026-09-22,Miraflores,Cinta aislante,7,25.16
+V04-032,2026-09-22,Surco,Foco LED,4,23.89
+V04-041,2026-09-22,San Isidro,Cinta aislante,1,3.57
+V04-002,2026-09-24,Surco,Cemento (bolsa),1,29.28
+V04-038,2026-09-24,Lima Centro,Pintura blanca (galón),4,184.47
+V04-049,2026-09-24,La Molina,Cinta aislante,4,14.19
+V04-035,2026-09-25,San Isidro,Cinta aislante,4,13.97
+V04-045,2026-09-26,Miraflores,Cemento (bolsa),4,114.67
+V04-004,2026-09-27,La Molina,Clavos 2 pulg (kg),1,7.92
+V04-015,2026-09-27,La Molina,Clavos 2 pulg (kg),2,15.64
+V04-043,2026-09-27,Lima Centro,Cinta aislante,4,14.05
+V04-006,2026-09-28,San Isidro,Cinta aislante,4,14.04
+V04-037,2026-09-28,Lima Centro,Cemento (bolsa),4,119.34
+V04-021,2026-09-29,La Molina,Cemento (bolsa),5,144.34
+V04-025,2026-09-29,San Isidro,Foco LED,7,40.76
+V04-018,2026-09-30,Surco,Pintura blanca (galón),6,274.74
+V04-020,2026-09-30,La Molina,Foco LED,4,24.04

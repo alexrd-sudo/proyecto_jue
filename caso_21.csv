@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Servicio,Cantidad,Monto_S
+V21-006,2026-09-01,Miraflores,Terno,1,25.7
+V21-023,2026-09-02,San Isidro,Zapatillas,3,60.9
+V21-022,2026-09-03,San Isidro,Zapatillas,2,40.74
+V21-043,2026-09-03,La Molina,Terno,2,51.24
+V21-025,2026-09-04,San Isidro,Zapatillas,3,61.49
+V21-033,2026-09-04,San Isidro,Lavado en seco (prenda),1,14.95
+V21-036,2026-09-04,La Molina,Terno,1,24.36
+V21-037,2026-09-04,San Isidro,Zapatillas,1,20.51
+V21-051,2026-09-07,Surco,Terno,4,102.1
+V21-005,2026-09-09,La Molina,Edredón,2,71.66
+V21-052,2026-09-09,Surco,Terno,1,24.96
+V21-053,2026-09-09,La Molina,Terno,5,123.53
+V21-008,2026-09-10,Miraflores,Edredón,6,213.65
+V21-012,2026-09-10,Lima Centro,Edredón,2,68.75
+V21-016,2026-09-10,Lima Centro,Zapatillas,6,118.29
+V21-034,2026-09-10,Miraflores,Terno,2,49.9
+V21-003,2026-09-11,Surco,Terno,5,128.45
+V21-047,2026-09-11,La Molina,Terno,8,197.64
+V21-004,2026-09-12,Lima Centro,Planchado,1,4.11
+V21-018,2026-09-13,Lima Centro,Lavado por kilo,3,21.02
+V21-027,2026-09-13,Surco,Terno,1,25.65
+V21-032,2026-09-13,San Isidro,Zapatillas,5,97.1
+V21-055,2026-09-13,Miraflores,Zapatillas,6,116.47
+V21-060,2026-09-13,Lima Centro,Lavado por kilo,3,21.22
+V21-017,2026-09-14,Lima Centro,Zapatillas,3,59.3
+V21-031,2026-09-14,Lima Centro,Terno,1,24.91
+V21-056,2026-09-14,San Isidro,Terno,7,174.87
+V21-046,2026-09-15,Surco,Lavado en seco (prenda),2,30.0
+V21-057,2026-09-15,Surco,Terno,7,174.27
+V21-014,2026-09-16,Surco,Planchado,8,31.25
+V21-040,2026-09-16,La Molina,Lavado por kilo,3,20.77
+V21-049,2026-09-16,La Molina,Lavado en seco (prenda),5,73.03
+V21-039,2026-09-17,La Molina,Lavado en seco (prenda),2,29.83
+V21-035,2026-09-18,Lima Centro,Terno,6,147.73
+V21-058,2026-09-18,Miraflores,Terno,3,75.35
+V21-009,2026-09-19,Miraflores,Zapatillas,7,141.57
+V21-011,2026-09-19,Miraflores,Lavado por kilo,4,27.85
+V21-013,2026-09-19,La Molina,Terno,4,99.35
+V21-021,2026-09-19,Surco,Terno,4,98.32
+V21-019,2026-09-20,La Molina,Terno,2,49.75
+V21-026,2026-09-20,Surco,Planchado,3,12.24
+V21-045,2026-09-20,San Isidro,Lavado en seco (prenda),8,118.72
+V21-050,2026-09-20,Lima Centro,Edredón,8,285.3
+V21-020,2026-09-21,San Isidro,Edredón,6,208.91
+V21-029,2026-09-21,Miraflores,Edredón,3,103.5
+V21-010,2026-09-22,Miraflores,Zapatillas,3,58.48
+V21-044,2026-09-22,Surco,Lavado por kilo,3,21.34
+V21-001,2026-09-23,La Molina,Zapatillas,1,19.65
+V21-038,2026-09-23,San Isidro,Terno,4,99.16
+V21-042,2026-09-23,La Molina,Edredón,4,141.32
+V21-041,2026-09-24,La Molina,Lavado por kilo,6,40.98
+V21-002,2026-09-25,Surco,Terno,1,24.39
+V21-028,2026-09-25,Miraflores,Terno,2,50.38
+V21-054,2026-09-25,Miraflores,Lavado por kilo,7,50.12
+V21-024,2026-09-26,La Molina,Terno,5,123.1
+V21-015,2026-09-28,La Molina,Zapatillas,3,61.58
+V21-048,2026-09-28,La Molina,Edredón,7,251.75
+V21-007,2026-09-29,Lima Centro,Zapatillas,3,60.08
+V21-059,2026-09-29,Surco,Terno,7,169.81
+V21-030,2026-09-30,San Isidro,Terno,3,75.48

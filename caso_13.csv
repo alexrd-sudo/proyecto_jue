@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Servicio,Cantidad,Monto_S
+V13-001,2026-09-01,San Isidro,Entrenador personal,3,181.62
+V13-003,2026-09-03,La Molina,Entrenador personal,6,358.06
+V13-026,2026-09-03,San Isidro,Plan mensual,3,322.54
+V13-032,2026-09-03,Miraflores,Entrenador personal,8,476.5
+V13-005,2026-09-04,La Molina,Clase de yoga,4,70.36
+V13-028,2026-09-04,Miraflores,Plan trimestral,2,585.8
+V13-039,2026-09-04,Lima Centro,Plan mensual,4,439.09
+V13-014,2026-09-05,Lima Centro,Plan mensual,5,559.7
+V13-023,2026-09-05,Lima Centro,Plan mensual,3,322.18
+V13-043,2026-09-05,Lima Centro,Clase de yoga,8,145.82
+V13-049,2026-09-05,Lima Centro,Entrenador personal,2,123.5
+V13-055,2026-09-06,Lima Centro,Entrenador personal,7,415.14
+V13-057,2026-09-06,La Molina,Entrenador personal,6,359.55
+V13-002,2026-09-07,Surco,Plan trimestral,2,565.92
+V13-019,2026-09-07,Miraflores,Plan trimestral,7,2074.19
+V13-031,2026-09-07,Surco,Plan mensual,3,325.75
+V13-021,2026-09-08,Miraflores,Entrenador personal,7,408.97
+V13-035,2026-09-08,Lima Centro,Plan mensual,4,451.75
+V13-036,2026-09-08,La Molina,Entrenador personal,2,117.76
+V13-056,2026-09-08,Lima Centro,Plan mensual,7,771.34
+V13-025,2026-09-09,Miraflores,Plan mensual,2,221.97
+V13-060,2026-09-09,Surco,Clase de yoga,7,129.45
+V13-020,2026-09-10,La Molina,Entrenador personal,8,467.58
+V13-034,2026-09-10,Surco,Pase diario,8,96.19
+V13-051,2026-09-10,La Molina,Entrenador personal,2,120.22
+V13-013,2026-09-11,Surco,Pase diario,8,93.57
+V13-040,2026-09-11,San Isidro,Clase de yoga,2,36.21
+V13-045,2026-09-12,Surco,Entrenador personal,5,299.4
+V13-018,2026-09-13,San Isidro,Plan trimestral,6,1787.01
+V13-022,2026-09-13,Miraflores,Plan trimestral,6,1767.38
+V13-059,2026-09-13,San Isidro,Plan mensual,6,671.46
+V13-012,2026-09-14,Surco,Clase de yoga,2,35.76
+V13-048,2026-09-14,Surco,Plan trimestral,7,2063.73
+V13-004,2026-09-15,San Isidro,Clase de yoga,4,69.91
+V13-009,2026-09-16,La Molina,Plan mensual,2,221.32
+V13-054,2026-09-16,Miraflores,Plan trimestral,7,1978.95
+V13-058,2026-09-16,Surco,Plan trimestral,6,1770.92
+V13-006,2026-09-17,La Molina,Plan trimestral,2,591.31
+V13-044,2026-09-17,Surco,Clase de spinning,7,142.31
+V13-033,2026-09-18,Miraflores,Plan trimestral,6,1730.41
+V13-046,2026-09-18,Surco,Plan trimestral,5,1423.98
+V13-010,2026-09-19,Surco,Plan mensual,2,224.19
+V13-052,2026-09-20,Miraflores,Entrenador personal,4,242.11
+V13-011,2026-09-21,Surco,Pase diario,6,72.81
+V13-030,2026-09-21,Lima Centro,Pase diario,2,23.31
+V13-038,2026-09-21,Surco,Plan mensual,6,659.58
+V13-047,2026-09-21,San Isidro,Plan trimestral,4,1187.96
+V13-042,2026-09-22,Miraflores,Pase diario,7,84.4
+V13-007,2026-09-23,Miraflores,Entrenador personal,2,123.52
+V13-053,2026-09-23,San Isidro,Clase de spinning,4,80.8
+V13-024,2026-09-24,Miraflores,Plan mensual,1,110.87
+V13-029,2026-09-24,Lima Centro,Entrenador personal,6,359.64
+V13-027,2026-09-26,La Molina,Pase diario,5,59.99
+V13-017,2026-09-27,La Molina,Entrenador personal,2,116.75
+V13-037,2026-09-27,Lima Centro,Plan mensual,5,539.91
+V13-015,2026-09-28,Surco,Entrenador personal,6,356.56
+V13-041,2026-09-28,Lima Centro,Entrenador personal,6,359.05
+V13-050,2026-09-29,La Molina,Clase de yoga,3,52.52
+V13-008,2026-09-30,La Molina,Pase diario,2,24.29
+V13-016,2026-09-30,La Molina,Plan trimestral,2,596.59

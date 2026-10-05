@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Artefacto,Unidades,Monto_S
+V16-006,2026-09-01,Surco,Licuadora,1,148.9
+V16-029,2026-09-01,San Isidro,Refrigeradora,1,1819.29
+V16-007,2026-09-02,Lima Centro,Plancha,2,170.43
+V16-022,2026-09-02,Miraflores,Microondas,6,2467.02
+V16-028,2026-09-02,Lima Centro,"Televisor 43""",8,10374.32
+V16-005,2026-09-03,Lima Centro,"Televisor 43""",2,2643.65
+V16-017,2026-09-03,La Molina,Cocina a gas,5,4576.35
+V16-023,2026-09-03,Lima Centro,Microondas,2,826.28
+V16-003,2026-09-04,Surco,Licuadora,3,451.04
+V16-021,2026-09-04,San Isidro,Plancha,7,606.66
+V16-019,2026-09-05,Miraflores,Plancha,5,416.53
+V16-047,2026-09-05,Lima Centro,Microondas,2,851.15
+V16-010,2026-09-06,La Molina,Plancha,8,670.06
+V16-001,2026-09-07,Surco,Refrigeradora,5,9231.42
+V16-025,2026-09-08,Lima Centro,Cocina a gas,3,2684.27
+V16-035,2026-09-08,Lima Centro,"Televisor 43""",2,2636.41
+V16-058,2026-09-08,San Isidro,Licuadora,8,1181.46
+V16-045,2026-09-09,Lima Centro,Microondas,2,833.4
+V16-052,2026-09-09,Surco,Microondas,2,860.6
+V16-031,2026-09-10,Lima Centro,Licuadora,2,303.73
+V16-056,2026-09-11,Miraflores,Cocina a gas,2,1755.0
+V16-015,2026-09-12,La Molina,Licuadora,5,729.18
+V16-032,2026-09-12,San Isidro,Licuadora,2,307.52
+V16-033,2026-09-12,Lima Centro,Licuadora,2,301.91
+V16-037,2026-09-12,Surco,Microondas,6,2455.69
+V16-012,2026-09-13,Surco,Licuadora,2,301.07
+V16-026,2026-09-13,Lima Centro,"Televisor 43""",4,5258.8
+V16-051,2026-09-13,San Isidro,Licuadora,2,304.28
+V16-054,2026-09-13,La Molina,Plancha,2,174.79
+V16-059,2026-09-14,Surco,Licuadora,1,145.76
+V16-057,2026-09-15,Lima Centro,Refrigeradora,2,3587.42
+V16-013,2026-09-16,Surco,"Televisor 43""",4,5340.32
+V16-004,2026-09-17,Lima Centro,Cocina a gas,2,1808.06
+V16-048,2026-09-17,La Molina,Refrigeradora,6,10549.57
+V16-002,2026-09-18,San Isidro,Microondas,4,1646.07
+V16-040,2026-09-18,Lima Centro,Cocina a gas,5,4321.82
+V16-034,2026-09-20,La Molina,Microondas,1,408.74
+V16-036,2026-09-20,Lima Centro,Microondas,1,414.57
+V16-041,2026-09-20,San Isidro,Licuadora,8,1175.17
+V16-055,2026-09-20,Lima Centro,Refrigeradora,2,3615.44
+V16-050,2026-09-21,Miraflores,Refrigeradora,5,8885.64
+V16-044,2026-09-22,Lima Centro,Licuadora,1,148.51
+V16-008,2026-09-23,Lima Centro,Refrigeradora,6,10655.7
+V16-027,2026-09-23,Surco,Microondas,3,1254.48
+V16-030,2026-09-23,Lima Centro,Cocina a gas,2,1832.95
+V16-039,2026-09-23,San Isidro,Microondas,2,841.33
+V16-042,2026-09-23,Surco,"Televisor 43""",2,2566.89
+V16-046,2026-09-23,Lima Centro,Cocina a gas,2,1743.27
+V16-053,2026-09-23,Lima Centro,"Televisor 43""",7,9313.72
+V16-009,2026-09-24,Miraflores,Plancha,4,331.44
+V16-016,2026-09-24,Lima Centro,Cocina a gas,8,7124.7
+V16-018,2026-09-24,Lima Centro,"Televisor 43""",8,10118.93
+V16-020,2026-09-24,San Isidro,Plancha,6,521.35
+V16-049,2026-09-24,Lima Centro,Licuadora,2,301.37
+V16-011,2026-09-25,Surco,Microondas,2,833.37
+V16-043,2026-09-26,La Molina,Refrigeradora,2,3638.34
+V16-060,2026-09-27,San Isidro,Licuadora,1,150.27
+V16-014,2026-09-28,Lima Centro,"Televisor 43""",1,1267.69
+V16-038,2026-09-29,Miraflores,Licuadora,2,301.66
+V16-024,2026-09-30,San Isidro,Plancha,3,252.86

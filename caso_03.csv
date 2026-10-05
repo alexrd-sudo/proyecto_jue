@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Plato,Porciones,Monto_S
+V03-027,2026-09-01,Lima Centro,Pollo entero,4,237.84
+V03-015,2026-09-03,La Molina,Anticuchos,3,54.69
+V03-013,2026-09-04,Miraflores,Mazamorra,1,5.98
+V03-040,2026-09-04,Miraflores,Anticuchos,4,73.89
+V03-026,2026-09-05,San Isidro,1/2 pollo con papas,8,236.9
+V03-004,2026-09-06,Miraflores,Mazamorra,3,17.82
+V03-059,2026-09-07,Lima Centro,Anticuchos,4,71.02
+V03-024,2026-09-08,La Molina,Anticuchos,7,128.93
+V03-009,2026-09-09,La Molina,Anticuchos,7,125.95
+V03-023,2026-09-09,San Isidro,1/4 pollo con papas,8,126.77
+V03-045,2026-09-09,La Molina,1/2 pollo con papas,2,61.53
+V03-051,2026-09-09,La Molina,Anticuchos,1,17.83
+V03-060,2026-09-09,Miraflores,Pollo entero,4,231.48
+V03-055,2026-09-10,La Molina,Mazamorra,8,46.96
+V03-021,2026-09-11,San Isidro,Chaufa de pollo,4,58.77
+V03-034,2026-09-11,Surco,1/4 pollo con papas,3,49.22
+V03-048,2026-09-12,Miraflores,Mazamorra,4,23.8
+V03-002,2026-09-13,Lima Centro,Anticuchos,4,70.36
+V03-016,2026-09-13,Lima Centro,1/2 pollo con papas,5,147.14
+V03-057,2026-09-13,Lima Centro,1/2 pollo con papas,4,121.83
+V03-003,2026-09-14,Miraflores,Pollo entero,1,58.42
+V03-020,2026-09-14,Lima Centro,1/4 pollo con papas,6,98.18
+V03-032,2026-09-14,Surco,Anticuchos,4,70.6
+V03-033,2026-09-14,Lima Centro,Pollo entero,2,116.5
+V03-046,2026-09-14,Surco,Anticuchos,4,71.66
+V03-052,2026-09-14,Lima Centro,Anticuchos,5,90.5
+V03-039,2026-09-15,Miraflores,1/4 pollo con papas,2,32.84
+V03-042,2026-09-16,Miraflores,Anticuchos,3,53.85
+V03-001,2026-09-17,San Isidro,Anticuchos,4,70.22
+V03-030,2026-09-17,Lima Centro,Pollo entero,2,114.37
+V03-056,2026-09-17,La Molina,1/4 pollo con papas,1,16.1
+V03-017,2026-09-19,Lima Centro,Mazamorra,2,11.77
+V03-014,2026-09-20,La Molina,1/2 pollo con papas,3,90.99
+V03-044,2026-09-20,La Molina,1/4 pollo con papas,6,93.96
+V03-028,2026-09-21,Miraflores,Anticuchos,6,110.12
+V03-018,2026-09-22,Miraflores,Anticuchos,2,36.04
+V03-019,2026-09-22,San Isidro,Chaufa de pollo,4,59.93
+V03-022,2026-09-22,Surco,Mazamorra,4,23.4
+V03-037,2026-09-22,Lima Centro,Chaufa de pollo,7,107.53
+V03-005,2026-09-23,Surco,Pollo entero,2,114.25
+V03-031,2026-09-23,San Isidro,Pollo entero,2,117.65
+V03-008,2026-09-24,Miraflores,Mazamorra,5,30.52
+V03-010,2026-09-24,La Molina,1/4 pollo con papas,2,32.32
+V03-036,2026-09-24,Surco,Chaufa de pollo,6,88.03
+V03-007,2026-09-25,Miraflores,Mazamorra,7,42.95
+V03-035,2026-09-25,Surco,Mazamorra,6,35.39
+V03-041,2026-09-25,Miraflores,1/4 pollo con papas,4,63.58
+V03-047,2026-09-25,La Molina,1/2 pollo con papas,6,179.82
+V03-006,2026-09-26,Surco,Anticuchos,3,55.49
+V03-054,2026-09-26,Lima Centro,Anticuchos,3,53.45
+V03-025,2026-09-27,Surco,Chaufa de pollo,6,87.54
+V03-043,2026-09-27,Lima Centro,1/4 pollo con papas,6,93.52
+V03-050,2026-09-27,La Molina,Anticuchos,4,71.36
+V03-029,2026-09-28,La Molina,1/4 pollo con papas,4,65.82
+V03-038,2026-09-28,Surco,Mazamorra,4,23.3
+V03-053,2026-09-28,San Isidro,Mazamorra,6,36.6
+V03-049,2026-09-29,Miraflores,Pollo entero,4,231.44
+V03-058,2026-09-29,Surco,Anticuchos,4,70.16
+V03-011,2026-09-30,Miraflores,Mazamorra,4,23.54
+V03-012,2026-09-30,Lima Centro,Pollo entero,4,238.01

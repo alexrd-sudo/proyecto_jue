@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Destino,Pasajeros,Monto_S
+V11-006,2026-09-01,La Molina,Huaraz,3,1312.31
+V11-054,2026-09-01,Surco,Arequipa,3,1807.81
+V11-019,2026-09-02,Lima Centro,Paracas,6,2244.34
+V11-043,2026-09-02,San Isidro,Arequipa,2,1225.24
+V11-023,2026-09-03,Surco,Máncora,3,2215.41
+V11-053,2026-09-03,San Isidro,Iquitos,3,3207.13
+V11-001,2026-09-04,San Isidro,Cusco,4,3836.15
+V11-026,2026-09-04,Surco,Máncora,2,1437.67
+V11-051,2026-09-04,Surco,Arequipa,3,1810.83
+V11-009,2026-09-05,San Isidro,Máncora,5,3681.75
+V11-012,2026-09-05,Miraflores,Iquitos,3,3322.18
+V11-039,2026-09-05,Lima Centro,Arequipa,4,2523.77
+V11-057,2026-09-05,Miraflores,Paracas,3,1115.04
+V11-016,2026-09-06,Miraflores,Cusco,2,1874.49
+V11-058,2026-09-06,Miraflores,Huaraz,1,442.9
+V11-003,2026-09-07,Lima Centro,Arequipa,3,1901.67
+V11-042,2026-09-07,Lima Centro,Arequipa,3,1842.35
+V11-005,2026-09-08,Surco,Paracas,2,757.55
+V11-032,2026-09-08,Miraflores,Máncora,4,2823.34
+V11-002,2026-09-09,La Molina,Máncora,8,5648.41
+V11-010,2026-09-09,Lima Centro,Paracas,3,1137.15
+V11-024,2026-09-09,La Molina,Huaraz,6,2632.9
+V11-028,2026-09-09,San Isidro,Máncora,4,2925.43
+V11-018,2026-09-10,Surco,Máncora,3,2143.21
+V11-029,2026-09-10,La Molina,Arequipa,6,3696.21
+V11-036,2026-09-10,Miraflores,Arequipa,3,1832.05
+V11-052,2026-09-10,La Molina,Iquitos,7,7573.17
+V11-041,2026-09-12,La Molina,Máncora,8,5848.95
+V11-007,2026-09-13,La Molina,Huaraz,8,3534.99
+V11-020,2026-09-13,Miraflores,Paracas,3,1130.6
+V11-014,2026-09-14,La Molina,Máncora,5,3604.72
+V11-022,2026-09-14,Lima Centro,Máncora,3,2174.86
+V11-044,2026-09-14,Surco,Arequipa,3,1890.72
+V11-050,2026-09-14,Miraflores,Cusco,6,5569.88
+V11-059,2026-09-14,Surco,Huaraz,8,3632.01
+V11-049,2026-09-15,San Isidro,Arequipa,5,3031.08
+V11-008,2026-09-18,Surco,Arequipa,4,2506.72
+V11-033,2026-09-18,Surco,Arequipa,1,632.48
+V11-048,2026-09-18,Miraflores,Cusco,4,3725.51
+V11-013,2026-09-20,San Isidro,Arequipa,2,1253.07
+V11-031,2026-09-21,Surco,Arequipa,4,2513.17
+V11-025,2026-09-22,Surco,Cusco,8,7543.54
+V11-017,2026-09-23,Miraflores,Paracas,2,780.26
+V11-055,2026-09-23,Miraflores,Máncora,3,2118.16
+V11-056,2026-09-23,Miraflores,Máncora,2,1402.4
+V11-030,2026-09-24,La Molina,Máncora,5,3604.18
+V11-045,2026-09-24,San Isidro,Arequipa,2,1230.66
+V11-034,2026-09-25,Surco,Huaraz,1,457.95
+V11-035,2026-09-25,San Isidro,Huaraz,4,1757.47
+V11-038,2026-09-25,San Isidro,Arequipa,5,3060.97
+V11-040,2026-09-25,Lima Centro,Arequipa,8,5056.63
+V11-060,2026-09-25,La Molina,Cusco,3,2765.98
+V11-015,2026-09-28,Surco,Arequipa,3,1858.81
+V11-046,2026-09-28,La Molina,Cusco,4,3905.92
+V11-004,2026-09-29,San Isidro,Máncora,4,2960.78
+V11-021,2026-09-29,Lima Centro,Arequipa,3,1840.13
+V11-037,2026-09-29,Surco,Huaraz,4,1754.53
+V11-047,2026-09-29,Miraflores,Máncora,1,700.89
+V11-011,2026-09-30,Surco,Arequipa,3,1830.66
+V11-027,2026-09-30,Surco,Cusco,3,2911.37

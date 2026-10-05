@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Prenda,Unidades,Monto_S
+V06-011,2026-09-01,Lima Centro,Polo básico,1,34.58
+V06-053,2026-09-01,Surco,Vestido,4,389.22
+V06-020,2026-09-02,San Isidro,Polo básico,3,104.96
+V06-032,2026-09-03,Lima Centro,Polo básico,4,137.81
+V06-050,2026-09-03,Surco,Short,2,97.8
+V06-035,2026-09-04,San Isidro,Jean,5,437.13
+V06-012,2026-09-05,Surco,Casaca,4,527.09
+V06-013,2026-09-05,Lima Centro,Casaca,4,522.17
+V06-017,2026-09-05,Surco,Jean,6,534.71
+V06-015,2026-09-06,Surco,Jean,7,624.01
+V06-052,2026-09-06,Surco,Vestido,4,395.29
+V06-042,2026-09-07,Miraflores,Short,7,337.81
+V06-059,2026-09-08,Surco,Vestido,4,398.49
+V06-044,2026-09-09,San Isidro,Casaca,4,505.07
+V06-049,2026-09-09,La Molina,Zapatillas,3,473.49
+V06-001,2026-09-10,Lima Centro,Short,5,240.29
+V06-056,2026-09-10,Surco,Short,8,398.93
+V06-057,2026-09-10,Lima Centro,Jean,3,264.09
+V06-007,2026-09-11,Surco,Zapatillas,7,1132.2
+V06-023,2026-09-11,San Isidro,Vestido,4,403.76
+V06-038,2026-09-11,Lima Centro,Zapatillas,7,1111.11
+V06-043,2026-09-11,Lima Centro,Zapatillas,4,641.07
+V06-006,2026-09-12,Miraflores,Polo básico,4,144.09
+V06-016,2026-09-12,Surco,Casaca,4,528.73
+V06-047,2026-09-12,San Isidro,Vestido,4,398.02
+V06-048,2026-09-12,Miraflores,Jean,5,441.67
+V06-002,2026-09-13,Lima Centro,Vestido,4,386.43
+V06-060,2026-09-13,Lima Centro,Jean,7,621.83
+V06-005,2026-09-14,San Isidro,Vestido,6,598.51
+V06-041,2026-09-14,San Isidro,Jean,4,353.98
+V06-010,2026-09-15,Lima Centro,Short,1,50.05
+V06-029,2026-09-15,Miraflores,Jean,4,357.48
+V06-051,2026-09-15,Lima Centro,Short,5,246.28
+V06-008,2026-09-16,Lima Centro,Zapatillas,4,653.59
+V06-022,2026-09-16,Lima Centro,Casaca,2,258.66
+V06-003,2026-09-17,Surco,Short,6,293.91
+V06-033,2026-09-17,Lima Centro,Jean,4,356.25
+V06-046,2026-09-17,Miraflores,Polo básico,4,142.12
+V06-014,2026-09-18,San Isidro,Zapatillas,5,793.48
+V06-019,2026-09-19,La Molina,Polo básico,3,105.19
+V06-027,2026-09-19,San Isidro,Vestido,4,390.58
+V06-028,2026-09-19,Surco,Vestido,8,809.87
+V06-034,2026-09-19,La Molina,Polo básico,1,35.2
+V06-004,2026-09-20,Surco,Short,2,97.59
+V06-021,2026-09-20,San Isidro,Zapatillas,4,621.09
+V06-054,2026-09-22,Miraflores,Jean,4,345.62
+V06-045,2026-09-23,La Molina,Zapatillas,5,810.87
+V06-018,2026-09-24,Lima Centro,Vestido,5,499.87
+V06-025,2026-09-24,Lima Centro,Jean,4,363.46
+V06-030,2026-09-24,Miraflores,Short,4,197.53
+V06-055,2026-09-24,Surco,Polo básico,4,137.82
+V06-024,2026-09-25,Miraflores,Vestido,6,602.98
+V06-037,2026-09-25,Miraflores,Vestido,6,594.96
+V06-009,2026-09-27,Surco,Polo básico,7,244.16
+V06-039,2026-09-27,Surco,Casaca,8,1039.38
+V06-058,2026-09-28,Surco,Short,4,195.54
+V06-026,2026-09-29,Lima Centro,Vestido,6,596.59
+V06-031,2026-09-30,San Isidro,Zapatillas,6,965.59
+V06-036,2026-09-30,San Isidro,Zapatillas,8,1265.3
+V06-040,2026-09-30,Lima Centro,Vestido,4,404.96

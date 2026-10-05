@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Unidades,Monto_S
+V10-017,2026-09-01,Surco,Estuche,4,48.39
+V10-054,2026-09-01,Surco,Líquido limpiador,7,108.03
+V10-015,2026-09-02,Miraflores,Lentes de sol,3,292.02
+V10-020,2026-09-02,San Isidro,Montura clásica,3,439.95
+V10-003,2026-09-03,Lima Centro,Lentes de sol,6,565.5
+V10-007,2026-09-03,San Isidro,Estuche,5,60.73
+V10-060,2026-09-03,Miraflores,Lentes de contacto,3,216.22
+V10-014,2026-09-04,La Molina,Lentes de contacto,3,206.85
+V10-004,2026-09-05,Lima Centro,Lentes de sol,6,578.43
+V10-022,2026-09-05,Miraflores,Lentes de sol,6,581.24
+V10-025,2026-09-05,San Isidro,Lentes de sol,5,471.63
+V10-011,2026-09-06,Lima Centro,Lentes de sol,8,739.02
+V10-021,2026-09-08,San Isidro,Lentes de contacto,3,205.84
+V10-023,2026-09-08,La Molina,Líquido limpiador,3,46.22
+V10-038,2026-09-08,San Isidro,Montura clásica,6,880.21
+V10-012,2026-09-09,Lima Centro,Montura clásica,5,747.37
+V10-018,2026-09-09,San Isidro,Montura clásica,1,152.78
+V10-040,2026-09-09,San Isidro,Lentes con luz azul,2,235.93
+V10-049,2026-09-09,San Isidro,Lentes de sol,4,381.09
+V10-009,2026-09-10,Miraflores,Líquido limpiador,3,44.42
+V10-045,2026-09-10,Lima Centro,Lentes de contacto,6,428.45
+V10-026,2026-09-11,La Molina,Montura clásica,6,898.36
+V10-057,2026-09-11,San Isidro,Montura clásica,2,292.0
+V10-028,2026-09-12,Surco,Montura clásica,3,463.22
+V10-050,2026-09-12,Miraflores,Lentes de sol,3,288.31
+V10-039,2026-09-13,San Isidro,Montura clásica,3,450.45
+V10-029,2026-09-14,Miraflores,Montura clásica,1,149.65
+V10-030,2026-09-15,La Molina,Montura clásica,3,454.16
+V10-032,2026-09-15,Surco,Estuche,3,36.34
+V10-033,2026-09-16,Miraflores,Lentes con luz azul,3,361.81
+V10-031,2026-09-17,La Molina,Montura clásica,5,735.41
+V10-034,2026-09-17,La Molina,Montura clásica,8,1170.91
+V10-041,2026-09-17,La Molina,Lentes de contacto,1,71.61
+V10-019,2026-09-18,Lima Centro,Lentes de contacto,8,553.87
+V10-027,2026-09-18,La Molina,Montura clásica,5,730.63
+V10-043,2026-09-19,Lima Centro,Lentes de sol,4,384.66
+V10-056,2026-09-19,Surco,Lentes con luz azul,2,244.08
+V10-037,2026-09-20,San Isidro,Montura clásica,8,1185.99
+V10-046,2026-09-20,La Molina,Estuche,1,11.81
+V10-010,2026-09-21,Lima Centro,Lentes de sol,3,278.85
+V10-044,2026-09-21,San Isidro,Montura clásica,3,443.34
+V10-051,2026-09-21,La Molina,Montura clásica,1,148.41
+V10-048,2026-09-22,La Molina,Lentes de contacto,8,553.11
+V10-002,2026-09-23,Lima Centro,Lentes de contacto,3,207.09
+V10-006,2026-09-23,Surco,Lentes de contacto,3,209.16
+V10-042,2026-09-24,San Isidro,Lentes con luz azul,2,244.57
+V10-058,2026-09-24,Miraflores,Lentes con luz azul,1,122.79
+V10-016,2026-09-25,Lima Centro,Estuche,3,35.32
+V10-059,2026-09-25,Lima Centro,Montura clásica,7,1079.46
+V10-001,2026-09-27,Surco,Lentes de sol,6,559.89
+V10-005,2026-09-27,La Molina,Estuche,2,24.7
+V10-047,2026-09-27,Miraflores,Líquido limpiador,4,61.41
+V10-008,2026-09-28,Lima Centro,Lentes de contacto,4,272.48
+V10-013,2026-09-28,Miraflores,Lentes con luz azul,4,468.87
+V10-036,2026-09-28,San Isidro,Estuche,3,36.73
+V10-052,2026-09-28,San Isidro,Lentes de sol,3,285.93
+V10-053,2026-09-29,Miraflores,Montura clásica,6,899.57
+V10-055,2026-09-29,Miraflores,Lentes de sol,3,281.46
+V10-024,2026-09-30,San Isidro,Lentes de contacto,5,346.23
+V10-035,2026-09-30,Lima Centro,Lentes con luz azul,6,721.4

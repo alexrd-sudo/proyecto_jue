@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Unidades,Monto_S
+V17-003,2026-09-01,La Molina,Cargador rápido,5,218.27
+V17-037,2026-09-01,Lima Centro,Cargador rápido,7,313.73
+V17-054,2026-09-01,Surco,Cargador rápido,7,317.11
+V17-058,2026-09-02,Surco,Cargador rápido,4,179.71
+V17-020,2026-09-03,Lima Centro,Power bank,1,71.31
+V17-024,2026-09-03,Miraflores,Power bank,4,275.58
+V17-032,2026-09-03,Lima Centro,Audífonos,5,303.15
+V17-019,2026-09-05,La Molina,Protector de pantalla,4,61.13
+V17-021,2026-09-05,Miraflores,Cargador rápido,8,357.85
+V17-031,2026-09-06,Surco,Cargador rápido,7,306.17
+V17-005,2026-09-07,La Molina,Funda protectora,4,101.85
+V17-023,2026-09-07,Lima Centro,Funda protectora,8,194.72
+V17-026,2026-09-07,Lima Centro,Funda protectora,1,24.37
+V17-040,2026-09-07,Miraflores,Cargador rápido,6,267.3
+V17-009,2026-09-08,La Molina,Smartphone gama media,7,6476.3
+V17-010,2026-09-08,Lima Centro,Protector de pantalla,6,90.3
+V17-029,2026-09-08,Lima Centro,Funda protectora,3,72.93
+V17-034,2026-09-08,La Molina,Smartphone gama media,4,3741.58
+V17-013,2026-09-09,San Isidro,Cargador rápido,4,180.25
+V17-030,2026-09-09,Lima Centro,Audífonos,5,308.45
+V17-008,2026-09-10,Lima Centro,Power bank,1,68.44
+V17-056,2026-09-10,Miraflores,Power bank,4,273.61
+V17-044,2026-09-11,Miraflores,Power bank,4,281.84
+V17-047,2026-09-11,Lima Centro,Cargador rápido,4,181.82
+V17-049,2026-09-11,Miraflores,Smartphone gama media,1,946.53
+V17-001,2026-09-12,Lima Centro,Cargador rápido,4,181.66
+V17-017,2026-09-12,Miraflores,Smartphone gama media,7,6838.09
+V17-033,2026-09-12,Surco,Funda protectora,4,101.33
+V17-050,2026-09-12,Lima Centro,Power bank,8,545.85
+V17-060,2026-09-12,Lima Centro,Power bank,3,214.88
+V17-057,2026-09-13,Lima Centro,Power bank,8,560.6
+V17-039,2026-09-14,Lima Centro,Cargador rápido,6,266.07
+V17-015,2026-09-15,Miraflores,Power bank,5,354.31
+V17-002,2026-09-16,La Molina,Cargador rápido,6,262.29
+V17-011,2026-09-16,Lima Centro,Funda protectora,5,128.04
+V17-025,2026-09-17,San Isidro,Power bank,5,350.74
+V17-027,2026-09-17,San Isidro,Protector de pantalla,4,61.7
+V17-055,2026-09-17,San Isidro,Cargador rápido,4,180.11
+V17-016,2026-09-18,Lima Centro,Power bank,7,485.24
+V17-051,2026-09-18,Lima Centro,Funda protectora,4,101.15
+V17-053,2026-09-18,Miraflores,Power bank,4,275.84
+V17-012,2026-09-19,Lima Centro,Smartphone gama media,7,6771.15
+V17-022,2026-09-19,Lima Centro,Cargador rápido,2,88.96
+V17-038,2026-09-19,La Molina,Cargador rápido,7,309.32
+V17-052,2026-09-21,Miraflores,Protector de pantalla,6,92.7
+V17-028,2026-09-22,Lima Centro,Power bank,4,275.77
+V17-041,2026-09-22,Lima Centro,Protector de pantalla,4,60.34
+V17-042,2026-09-22,La Molina,Cargador rápido,8,352.5
+V17-059,2026-09-23,Miraflores,Power bank,2,137.23
+V17-018,2026-09-24,Lima Centro,Funda protectora,1,25.66
+V17-006,2026-09-25,Miraflores,Cargador rápido,7,315.17
+V17-014,2026-09-25,San Isidro,Funda protectora,3,76.93
+V17-035,2026-09-28,Surco,Cargador rápido,1,44.76
+V17-036,2026-09-28,Lima Centro,Cargador rápido,6,267.07
+V17-045,2026-09-28,Lima Centro,Funda protectora,3,75.67
+V17-046,2026-09-28,Lima Centro,Power bank,4,275.31
+V17-007,2026-09-29,San Isidro,Protector de pantalla,4,59.94
+V17-043,2026-09-29,La Molina,Power bank,5,347.46
+V17-048,2026-09-29,La Molina,Funda protectora,2,51.16
+V17-004,2026-09-30,Surco,Funda protectora,1,24.62

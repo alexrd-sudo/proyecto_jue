@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Habitación,Noches,Monto_S
+V15-023,2026-09-02,Lima Centro,Simple,5,594.22
+V15-038,2026-09-02,Miraflores,Triple,3,758.19
+V15-030,2026-09-03,San Isidro,Triple,2,490.77
+V15-033,2026-09-03,Miraflores,Suite,3,1107.47
+V15-039,2026-09-03,Miraflores,Suite,1,375.85
+V15-002,2026-09-04,Miraflores,Doble,8,1481.56
+V15-053,2026-09-04,Surco,Simple,4,489.08
+V15-003,2026-09-05,La Molina,Matrimonial,8,1630.11
+V15-007,2026-09-05,Lima Centro,Simple,1,121.75
+V15-041,2026-09-05,Surco,Doble,7,1254.66
+V15-055,2026-09-07,Surco,Simple,4,485.28
+V15-025,2026-09-08,Miraflores,Simple,4,475.02
+V15-006,2026-09-09,La Molina,Simple,4,490.28
+V15-031,2026-09-09,La Molina,Doble,6,1102.05
+V15-047,2026-09-09,Lima Centro,Triple,4,1024.73
+V15-029,2026-09-10,La Molina,Triple,2,492.19
+V15-010,2026-09-11,Lima Centro,Doble,5,906.49
+V15-042,2026-09-11,San Isidro,Doble,5,875.09
+V15-013,2026-09-12,Lima Centro,Suite,2,766.38
+V15-054,2026-09-12,La Molina,Simple,6,734.74
+V15-001,2026-09-13,Miraflores,Triple,4,1013.21
+V15-005,2026-09-13,Miraflores,Simple,1,118.32
+V15-016,2026-09-13,Miraflores,Simple,2,234.36
+V15-060,2026-09-13,Miraflores,Familiar,8,2563.23
+V15-044,2026-09-14,La Molina,Triple,3,729.13
+V15-058,2026-09-14,San Isidro,Doble,1,179.62
+V15-050,2026-09-15,La Molina,Simple,4,488.11
+V15-024,2026-09-16,La Molina,Triple,7,1761.2
+V15-057,2026-09-16,Lima Centro,Suite,5,1871.45
+V15-032,2026-09-17,San Isidro,Triple,4,976.37
+V15-052,2026-09-18,San Isidro,Matrimonial,4,780.28
+V15-026,2026-09-19,Lima Centro,Matrimonial,7,1406.56
+V15-051,2026-09-19,Lima Centro,Suite,3,1107.53
+V15-009,2026-09-20,Lima Centro,Triple,8,2000.32
+V15-017,2026-09-20,La Molina,Triple,7,1698.18
+V15-019,2026-09-20,Miraflores,Simple,4,489.96
+V15-027,2026-09-20,La Molina,Simple,6,715.78
+V15-035,2026-09-20,Surco,Suite,5,1928.18
+V15-048,2026-09-20,Lima Centro,Doble,4,715.65
+V15-037,2026-09-21,Miraflores,Matrimonial,5,1014.38
+V15-056,2026-09-22,Lima Centro,Triple,2,490.83
+V15-059,2026-09-22,Lima Centro,Triple,5,1243.64
+V15-008,2026-09-23,La Molina,Simple,1,121.23
+V15-036,2026-09-23,Surco,Triple,1,251.29
+V15-011,2026-09-25,San Isidro,Matrimonial,1,196.88
+V15-020,2026-09-26,La Molina,Suite,7,2720.33
+V15-004,2026-09-27,San Isidro,Triple,6,1530.87
+V15-015,2026-09-27,La Molina,Suite,3,1114.21
+V15-018,2026-09-27,Miraflores,Triple,5,1224.31
+V15-022,2026-09-27,San Isidro,Suite,3,1109.05
+V15-046,2026-09-27,Surco,Triple,7,1788.33
+V15-014,2026-09-29,Miraflores,Familiar,8,2590.09
+V15-021,2026-09-29,La Molina,Suite,3,1170.53
+V15-034,2026-09-29,San Isidro,Triple,4,1008.17
+V15-040,2026-09-29,Lima Centro,Triple,5,1282.48
+V15-045,2026-09-29,San Isidro,Simple,4,475.91
+V15-049,2026-09-29,Miraflores,Triple,8,1950.93
+V15-012,2026-09-30,Miraflores,Simple,7,817.75
+V15-028,2026-09-30,Miraflores,Simple,7,862.82
+V15-043,2026-09-30,Miraflores,Suite,4,1558.6

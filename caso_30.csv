@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Curso,Matrículas,Monto_S
+V30-037,2026-09-01,Surco,Inglés avanzado,1,223.49
+V30-003,2026-09-02,La Molina,Italiano,2,415.92
+V30-007,2026-09-03,Lima Centro,Portugués,2,385.26
+V30-043,2026-09-03,San Isidro,Inglés avanzado,6,1326.46
+V30-052,2026-09-04,San Isidro,Italiano,3,623.55
+V30-001,2026-09-05,Lima Centro,Inglés avanzado,5,1104.0
+V30-046,2026-09-05,Miraflores,Inglés intermedio,3,611.02
+V30-024,2026-09-06,La Molina,Inglés básico,7,1278.43
+V30-049,2026-09-06,Lima Centro,Portugués,8,1509.1
+V30-057,2026-09-06,Lima Centro,Italiano,3,628.05
+V30-034,2026-09-07,La Molina,Inglés avanzado,5,1081.67
+V30-055,2026-09-07,Lima Centro,Inglés básico,3,529.0
+V30-010,2026-09-08,San Isidro,Portugués,3,577.62
+V30-015,2026-09-08,Surco,Francés,3,646.3
+V30-029,2026-09-08,La Molina,Inglés intermedio,3,598.93
+V30-045,2026-09-08,Lima Centro,Portugués,8,1504.07
+V30-056,2026-09-08,Miraflores,Inglés básico,2,355.26
+V30-050,2026-09-10,Lima Centro,Portugués,8,1565.57
+V30-051,2026-09-10,Miraflores,Italiano,3,597.71
+V30-048,2026-09-11,San Isidro,Inglés básico,5,902.99
+V30-016,2026-09-12,La Molina,Francés,1,204.32
+V30-054,2026-09-12,Miraflores,Portugués,2,380.11
+V30-012,2026-09-13,San Isidro,Inglés básico,4,721.54
+V30-020,2026-09-13,La Molina,Italiano,3,616.29
+V30-014,2026-09-14,La Molina,Portugués,3,553.54
+V30-030,2026-09-14,Miraflores,Portugués,8,1492.48
+V30-038,2026-09-14,San Isidro,Inglés avanzado,5,1108.12
+V30-044,2026-09-14,Lima Centro,Inglés intermedio,3,595.0
+V30-058,2026-09-14,San Isidro,Italiano,1,209.01
+V30-004,2026-09-15,Miraflores,Italiano,3,627.13
+V30-026,2026-09-15,San Isidro,Inglés básico,3,533.54
+V30-027,2026-09-16,Lima Centro,Italiano,5,1053.99
+V30-041,2026-09-16,Miraflores,Portugués,6,1139.63
+V30-009,2026-09-18,Surco,Inglés avanzado,3,672.87
+V30-019,2026-09-18,Lima Centro,Inglés intermedio,1,198.97
+V30-025,2026-09-19,San Isidro,Italiano,3,632.37
+V30-047,2026-09-19,Lima Centro,Italiano,3,613.01
+V30-006,2026-09-21,La Molina,Inglés básico,1,182.06
+V30-013,2026-09-21,San Isidro,Italiano,3,617.76
+V30-021,2026-09-22,San Isidro,Inglés avanzado,5,1081.22
+V30-023,2026-09-22,San Isidro,Italiano,5,1008.27
+V30-018,2026-09-24,La Molina,Inglés avanzado,7,1524.77
+V30-032,2026-09-24,Miraflores,Italiano,8,1618.79
+V30-040,2026-09-24,San Isidro,Francés,8,1701.03
+V30-042,2026-09-24,Lima Centro,Portugués,3,573.85
+V30-053,2026-09-24,San Isidro,Portugués,7,1311.86
+V30-031,2026-09-25,La Molina,Inglés intermedio,6,1202.86
+V30-035,2026-09-25,Lima Centro,Portugués,1,186.74
+V30-060,2026-09-25,La Molina,Francés,3,644.77
+V30-011,2026-09-26,La Molina,Inglés básico,6,1092.17
+V30-017,2026-09-26,Lima Centro,Inglés avanzado,3,672.38
+V30-022,2026-09-26,San Isidro,Portugués,2,375.93
+V30-033,2026-09-27,Surco,Inglés avanzado,3,656.26
+V30-008,2026-09-28,Surco,Portugués,3,573.76
+V30-028,2026-09-28,San Isidro,Francés,8,1678.16
+V30-036,2026-09-28,La Molina,Francés,1,213.89
+V30-002,2026-09-29,Lima Centro,Portugués,3,565.87
+V30-005,2026-09-29,Lima Centro,Portugués,3,566.01
+V30-039,2026-09-30,Lima Centro,Inglés avanzado,4,867.53
+V30-059,2026-09-30,La Molina,Francés,2,422.64

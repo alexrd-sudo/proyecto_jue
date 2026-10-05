@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Kilos,Monto_S
+V25-018,2026-09-01,Lima Centro,Plátano (kg),2,7.4
+V25-030,2026-09-01,Surco,Palta (kg),6,67.51
+V25-032,2026-09-01,Surco,Palta (kg),4,45.05
+V25-039,2026-09-02,La Molina,Limón (kg),2,10.2
+V25-057,2026-09-02,Surco,Tomate (kg),7,28.35
+V25-002,2026-09-03,La Molina,Tomate (kg),2,7.97
+V25-038,2026-09-03,Miraflores,Cebolla (kg),4,11.9
+V25-048,2026-09-04,Miraflores,Limón (kg),2,9.76
+V25-051,2026-09-04,La Molina,Palta (kg),2,22.55
+V25-013,2026-09-05,Surco,Limón (kg),2,9.72
+V25-024,2026-09-05,San Isidro,Cebolla (kg),1,2.92
+V25-005,2026-09-06,La Molina,Papa (kg),5,17.92
+V25-010,2026-09-07,Surco,Limón (kg),3,14.82
+V25-033,2026-09-07,La Molina,Cebolla (kg),3,8.81
+V25-019,2026-09-08,San Isidro,Tomate (kg),8,31.17
+V25-037,2026-09-09,Miraflores,Tomate (kg),7,27.36
+V25-004,2026-09-10,La Molina,Limón (kg),1,4.92
+V25-049,2026-09-10,San Isidro,Limón (kg),2,10.1
+V25-006,2026-09-11,San Isidro,Papa (kg),4,13.66
+V25-016,2026-09-11,Miraflores,Cebolla (kg),7,21.42
+V25-023,2026-09-11,Miraflores,Cebolla (kg),2,5.92
+V25-042,2026-09-12,San Isidro,Cebolla (kg),1,2.96
+V25-060,2026-09-12,San Isidro,Plátano (kg),5,18.66
+V25-003,2026-09-13,Lima Centro,Papa (kg),1,3.6
+V25-050,2026-09-13,Lima Centro,Limón (kg),2,10.07
+V25-055,2026-09-13,Surco,Limón (kg),2,9.8
+V25-035,2026-09-14,Surco,Cebolla (kg),2,5.85
+V25-040,2026-09-16,La Molina,Plátano (kg),2,7.44
+V25-001,2026-09-17,Surco,Tomate (kg),2,8.15
+V25-041,2026-09-17,La Molina,Tomate (kg),7,27.81
+V25-043,2026-09-17,Lima Centro,Limón (kg),4,20.19
+V25-027,2026-09-18,San Isidro,Limón (kg),5,24.32
+V25-028,2026-09-19,Surco,Tomate (kg),2,8.19
+V25-054,2026-09-19,Lima Centro,Limón (kg),2,10.05
+V25-007,2026-09-20,Miraflores,Tomate (kg),3,12.03
+V25-025,2026-09-20,Surco,Cebolla (kg),3,9.06
+V25-029,2026-09-20,Surco,Tomate (kg),2,7.87
+V25-026,2026-09-21,Surco,Tomate (kg),4,16.3
+V25-059,2026-09-21,La Molina,Tomate (kg),3,11.73
+V25-017,2026-09-23,San Isidro,Limón (kg),2,9.94
+V25-045,2026-09-23,Surco,Limón (kg),7,34.93
+V25-012,2026-09-24,Surco,Palta (kg),2,21.64
+V25-031,2026-09-24,San Isidro,Tomate (kg),6,24.09
+V25-052,2026-09-24,Surco,Limón (kg),3,14.76
+V25-009,2026-09-26,Miraflores,Tomate (kg),2,7.94
+V25-036,2026-09-26,San Isidro,Plátano (kg),2,7.45
+V25-044,2026-09-26,San Isidro,Papa (kg),3,10.5
+V25-046,2026-09-26,La Molina,Tomate (kg),7,27.49
+V25-047,2026-09-26,Miraflores,Tomate (kg),6,23.38
+V25-053,2026-09-26,La Molina,Cebolla (kg),6,17.86
+V25-014,2026-09-27,Surco,Papa (kg),6,20.66
+V25-015,2026-09-27,Surco,Tomate (kg),2,8.0
+V25-021,2026-09-27,Lima Centro,Tomate (kg),6,24.3
+V25-008,2026-09-28,Lima Centro,Cebolla (kg),2,6.06
+V25-020,2026-09-28,Surco,Tomate (kg),2,7.91
+V25-034,2026-09-28,La Molina,Papa (kg),1,3.56
+V25-011,2026-09-29,La Molina,Cebolla (kg),8,23.93
+V25-022,2026-09-29,San Isidro,Limón (kg),7,34.35
+V25-058,2026-09-29,La Molina,Plátano (kg),1,3.83
+V25-056,2026-09-30,Surco,Tomate (kg),4,15.59

@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Unidades,Monto_S
+V19-010,2026-09-01,Surco,Alimento para gato 3 kg,2,136.04
+V19-025,2026-09-01,La Molina,Juguete masticable,7,127.25
+V19-058,2026-09-01,Miraflores,Arena sanitaria,2,67.94
+V19-016,2026-09-03,La Molina,Juguete masticable,2,35.57
+V19-047,2026-09-03,Surco,Baño y corte,2,97.54
+V19-050,2026-09-03,San Isidro,Collar,2,51.15
+V19-051,2026-09-03,Miraflores,Arena sanitaria,8,286.06
+V19-059,2026-09-03,Surco,Alimento para gato 3 kg,1,71.93
+V19-003,2026-09-05,Miraflores,Collar,1,24.33
+V19-022,2026-09-05,Lima Centro,Alimento para gato 3 kg,3,206.15
+V19-015,2026-09-06,Surco,Arena sanitaria,2,71.1
+V19-042,2026-09-06,La Molina,Alimento para gato 3 kg,3,213.92
+V19-044,2026-09-06,Miraflores,Arena sanitaria,5,171.82
+V19-035,2026-09-08,Miraflores,Baño y corte,3,148.52
+V19-056,2026-09-08,Surco,Arena sanitaria,2,71.51
+V19-027,2026-09-10,Lima Centro,Baño y corte,2,101.06
+V19-030,2026-09-10,Lima Centro,Arena sanitaria,4,138.18
+V19-018,2026-09-11,Miraflores,Baño y corte,3,152.22
+V19-008,2026-09-12,Miraflores,Collar,6,150.25
+V19-060,2026-09-12,San Isidro,Collar,2,50.89
+V19-001,2026-09-13,Miraflores,Alimento para gato 3 kg,2,141.89
+V19-031,2026-09-13,Miraflores,Baño y corte,1,50.1
+V19-055,2026-09-14,Miraflores,Alimento para perro 15 kg,2,386.94
+V19-005,2026-09-15,Surco,Arena sanitaria,7,247.59
+V19-028,2026-09-15,Surco,Alimento para gato 3 kg,5,341.49
+V19-038,2026-09-15,La Molina,Arena sanitaria,1,35.22
+V19-049,2026-09-15,La Molina,Collar,5,126.64
+V19-012,2026-09-16,La Molina,Alimento para perro 15 kg,8,1478.32
+V19-004,2026-09-17,La Molina,Collar,2,48.97
+V19-041,2026-09-17,La Molina,Alimento para gato 3 kg,2,143.09
+V19-045,2026-09-17,Surco,Arena sanitaria,8,284.66
+V19-006,2026-09-18,Lima Centro,Alimento para gato 3 kg,2,143.63
+V19-009,2026-09-18,San Isidro,Juguete masticable,2,36.94
+V19-023,2026-09-18,Miraflores,Arena sanitaria,4,143.6
+V19-052,2026-09-18,Miraflores,Alimento para perro 15 kg,3,558.18
+V19-014,2026-09-20,Miraflores,Arena sanitaria,6,210.89
+V19-024,2026-09-20,Lima Centro,Arena sanitaria,2,71.26
+V19-032,2026-09-20,San Isidro,Baño y corte,7,352.39
+V19-011,2026-09-21,Miraflores,Baño y corte,4,201.29
+V19-026,2026-09-21,Miraflores,Collar,5,125.68
+V19-033,2026-09-21,Miraflores,Juguete masticable,4,71.86
+V19-036,2026-09-21,Surco,Arena sanitaria,2,70.9
+V19-039,2026-09-21,La Molina,Arena sanitaria,8,282.39
+V19-040,2026-09-21,San Isidro,Juguete masticable,3,53.02
+V19-057,2026-09-21,Miraflores,Alimento para gato 3 kg,4,287.2
+V19-007,2026-09-22,San Isidro,Arena sanitaria,2,69.69
+V19-020,2026-09-22,Lima Centro,Alimento para gato 3 kg,6,420.21
+V19-034,2026-09-22,Miraflores,Arena sanitaria,6,215.51
+V19-048,2026-09-22,Lima Centro,Alimento para gato 3 kg,2,143.41
+V19-021,2026-09-23,Miraflores,Baño y corte,8,398.73
+V19-053,2026-09-23,La Molina,Arena sanitaria,8,274.32
+V19-029,2026-09-24,La Molina,Alimento para gato 3 kg,5,345.66
+V19-017,2026-09-25,Miraflores,Arena sanitaria,4,143.94
+V19-043,2026-09-25,La Molina,Arena sanitaria,7,248.29
+V19-046,2026-09-25,La Molina,Alimento para gato 3 kg,6,429.71
+V19-019,2026-09-27,La Molina,Alimento para perro 15 kg,2,384.4
+V19-002,2026-09-29,Miraflores,Arena sanitaria,5,176.56
+V19-037,2026-09-29,Miraflores,Alimento para gato 3 kg,1,69.3
+V19-013,2026-09-30,Miraflores,Alimento para perro 15 kg,5,972.5
+V19-054,2026-09-30,Surco,Alimento para perro 15 kg,7,1302.37

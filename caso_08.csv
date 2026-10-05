@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Bebida,Unidades,Monto_S
+V08-006,2026-09-01,La Molina,Té chai,6,53.95
+V08-015,2026-09-01,La Molina,Cappuccino,4,39.15
+V08-017,2026-09-01,Lima Centro,Espresso,3,17.57
+V08-030,2026-09-01,Lima Centro,Cappuccino,7,69.01
+V08-040,2026-09-02,Lima Centro,Espresso,2,11.82
+V08-051,2026-09-02,Surco,Cappuccino,5,51.49
+V08-033,2026-09-03,Surco,Cappuccino,3,29.79
+V08-035,2026-09-03,La Molina,Chocolate caliente,7,68.79
+V08-002,2026-09-04,San Isidro,Espresso,6,35.01
+V08-008,2026-09-04,Lima Centro,Chocolate caliente,3,30.78
+V08-054,2026-09-04,La Molina,Latte,8,87.5
+V08-005,2026-09-05,La Molina,Latte,3,33.79
+V08-018,2026-09-05,Surco,Té chai,4,36.43
+V08-039,2026-09-05,Lima Centro,Cappuccino,2,20.21
+V08-041,2026-09-05,La Molina,Cappuccino,3,29.15
+V08-043,2026-09-05,San Isidro,Cappuccino,1,10.06
+V08-001,2026-09-06,Lima Centro,Té chai,7,63.49
+V08-058,2026-09-06,Surco,Té chai,7,62.94
+V08-016,2026-09-07,Surco,Cappuccino,3,29.41
+V08-013,2026-09-08,La Molina,Latte,4,43.57
+V08-019,2026-09-08,Lima Centro,Latte,3,32.73
+V08-031,2026-09-09,La Molina,Espresso,3,18.49
+V08-012,2026-09-10,Surco,Cappuccino,6,58.59
+V08-049,2026-09-10,Lima Centro,Té chai,3,27.61
+V08-057,2026-09-10,Miraflores,Cappuccino,3,29.88
+V08-059,2026-09-10,Lima Centro,Cappuccino,7,70.78
+V08-032,2026-09-11,Miraflores,Frappé,3,41.27
+V08-046,2026-09-11,Miraflores,Té chai,3,27.11
+V08-047,2026-09-11,La Molina,Espresso,4,23.41
+V08-052,2026-09-11,Surco,Cappuccino,1,10.11
+V08-022,2026-09-12,Lima Centro,Espresso,3,18.51
+V08-021,2026-09-13,Surco,Latte,3,33.71
+V08-053,2026-09-13,Lima Centro,Cappuccino,7,70.44
+V08-056,2026-09-13,Lima Centro,Frappé,7,97.08
+V08-028,2026-09-14,San Isidro,Espresso,3,17.68
+V08-009,2026-09-17,San Isidro,Cappuccino,1,10.21
+V08-023,2026-09-17,Lima Centro,Cappuccino,7,68.91
+V08-014,2026-09-18,Miraflores,Latte,3,33.63
+V08-011,2026-09-19,San Isidro,Chocolate caliente,7,69.74
+V08-025,2026-09-19,La Molina,Té chai,8,72.53
+V08-020,2026-09-20,San Isidro,Espresso,1,6.0
+V08-027,2026-09-20,La Molina,Té chai,6,54.4
+V08-003,2026-09-21,Lima Centro,Chocolate caliente,3,30.77
+V08-010,2026-09-21,Miraflores,Cappuccino,3,30.02
+V08-037,2026-09-21,Surco,Espresso,3,18.16
+V08-034,2026-09-22,San Isidro,Chocolate caliente,8,80.74
+V08-048,2026-09-22,Surco,Frappé,4,55.66
+V08-050,2026-09-22,Surco,Cappuccino,4,39.86
+V08-026,2026-09-23,San Isidro,Espresso,3,17.9
+V08-045,2026-09-23,Surco,Té chai,1,8.85
+V08-004,2026-09-24,Lima Centro,Latte,8,85.56
+V08-036,2026-09-24,Miraflores,Espresso,4,24.55
+V08-029,2026-09-25,Miraflores,Frappé,1,14.32
+V08-044,2026-09-25,Lima Centro,Cappuccino,8,79.3
+V08-024,2026-09-26,La Molina,Chocolate caliente,3,30.73
+V08-060,2026-09-26,Miraflores,Frappé,3,41.24
+V08-042,2026-09-27,La Molina,Chocolate caliente,6,60.23
+V08-007,2026-09-29,La Molina,Chocolate caliente,2,19.86
+V08-038,2026-09-30,Lima Centro,Cappuccino,4,39.66
+V08-055,2026-09-30,La Molina,Té chai,3,27.48

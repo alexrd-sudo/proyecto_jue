@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Producto,Unidades,Monto_S
+V14-037,2026-09-01,La Molina,Entrada VIP,7,249.48
+V14-053,2026-09-01,Lima Centro,Hot dog,2,23.41
+V14-008,2026-09-02,Lima Centro,Combo canchita + gaseosa,1,21.35
+V14-033,2026-09-02,Surco,Combo canchita + gaseosa,4,86.76
+V14-019,2026-09-03,Lima Centro,Entrada VIP,4,139.72
+V14-060,2026-09-03,La Molina,Nachos,4,56.1
+V14-001,2026-09-04,Surco,Hot dog,6,69.85
+V14-009,2026-09-04,Surco,Hot dog,3,37.0
+V14-017,2026-09-05,Miraflores,Entrada 2D,5,92.02
+V14-041,2026-09-05,Lima Centro,Entrada VIP,4,143.91
+V14-047,2026-09-05,Surco,Hot dog,2,24.66
+V14-057,2026-09-05,Lima Centro,Combo canchita + gaseosa,1,22.55
+V14-059,2026-09-05,Miraflores,Entrada VIP,4,140.03
+V14-007,2026-09-06,Lima Centro,Hot dog,1,11.7
+V14-024,2026-09-06,La Molina,Hot dog,5,60.65
+V14-029,2026-09-06,Miraflores,Entrada 2D,4,71.39
+V14-006,2026-09-07,Lima Centro,Entrada 2D,1,18.27
+V14-021,2026-09-07,San Isidro,Combo canchita + gaseosa,7,156.89
+V14-043,2026-09-07,Lima Centro,Hot dog,1,11.83
+V14-004,2026-09-08,La Molina,Entrada VIP,7,240.55
+V14-058,2026-09-08,Lima Centro,Hot dog,2,24.39
+V14-012,2026-09-09,San Isidro,Combo canchita + gaseosa,4,87.3
+V14-015,2026-09-09,Miraflores,Entrada VIP,2,70.39
+V14-020,2026-09-09,Miraflores,Combo canchita + gaseosa,4,87.35
+V14-046,2026-09-09,La Molina,Entrada 2D,5,88.71
+V14-002,2026-09-10,Surco,Entrada 3D,1,24.17
+V14-010,2026-09-10,Lima Centro,Entrada 2D,1,17.71
+V14-014,2026-09-10,Surco,Entrada 2D,3,54.34
+V14-055,2026-09-11,Surco,Entrada 3D,4,97.26
+V14-028,2026-09-12,La Molina,Nachos,4,57.36
+V14-018,2026-09-13,La Molina,Hot dog,7,85.07
+V14-034,2026-09-13,Lima Centro,Entrada 2D,5,89.39
+V14-056,2026-09-13,Miraflores,Hot dog,1,12.29
+V14-042,2026-09-14,La Molina,Hot dog,1,11.65
+V14-011,2026-09-15,Lima Centro,Hot dog,8,98.65
+V14-016,2026-09-15,Lima Centro,Entrada 3D,8,191.76
+V14-039,2026-09-15,San Isidro,Entrada VIP,7,249.17
+V14-031,2026-09-16,San Isidro,Hot dog,4,48.28
+V14-050,2026-09-16,Lima Centro,Entrada 3D,4,95.24
+V14-026,2026-09-17,San Isidro,Hot dog,7,83.92
+V14-038,2026-09-17,Miraflores,Entrada 2D,1,17.97
+V14-051,2026-09-17,Surco,Entrada VIP,4,143.85
+V14-025,2026-09-19,Surco,Hot dog,4,47.26
+V14-040,2026-09-19,Lima Centro,Combo canchita + gaseosa,3,64.92
+V14-045,2026-09-19,La Molina,Hot dog,4,48.48
+V14-054,2026-09-19,Miraflores,Entrada 2D,4,73.66
+V14-013,2026-09-20,Surco,Entrada 2D,7,125.5
+V14-044,2026-09-20,Lima Centro,Hot dog,6,74.01
+V14-035,2026-09-21,La Molina,Hot dog,4,46.8
+V14-003,2026-09-22,Lima Centro,Entrada 3D,8,191.76
+V14-032,2026-09-22,Lima Centro,Entrada 3D,4,95.34
+V14-052,2026-09-22,San Isidro,Combo canchita + gaseosa,3,67.75
+V14-005,2026-09-23,La Molina,Entrada 2D,2,36.24
+V14-048,2026-09-27,Miraflores,Hot dog,1,12.19
+V14-036,2026-09-28,Lima Centro,Entrada 2D,7,124.52
+V14-022,2026-09-29,Lima Centro,Entrada 2D,5,88.76
+V14-023,2026-09-29,Lima Centro,Entrada VIP,1,35.61
+V14-027,2026-09-30,Miraflores,Hot dog,3,36.26
+V14-030,2026-09-30,Miraflores,Entrada 2D,4,70.06
+V14-049,2026-09-30,Lima Centro,Entrada VIP,7,238.26

@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Presentación,Unidades,Monto_S
+V20-052,2026-09-01,San Isidro,Litro de helado,3,83.5
+V20-007,2026-09-02,San Isidro,Copa de helado,5,59.08
+V20-018,2026-09-03,Miraflores,Litro de helado,3,85.08
+V20-025,2026-09-03,San Isidro,Barquillo,1,6.07
+V20-028,2026-09-03,San Isidro,Milkshake,3,32.29
+V20-055,2026-09-03,Miraflores,Litro de helado,8,217.28
+V20-058,2026-09-03,Lima Centro,Cono doble,5,39.21
+V20-023,2026-09-04,Miraflores,Cono doble,8,62.34
+V20-022,2026-09-05,La Molina,Milkshake,3,32.04
+V20-044,2026-09-06,La Molina,Copa de helado,2,24.27
+V20-056,2026-09-06,Lima Centro,Litro de helado,7,190.96
+V20-001,2026-09-07,Miraflores,Litro de helado,3,82.69
+V20-033,2026-09-07,Surco,Copa de helado,3,35.71
+V20-051,2026-09-07,Miraflores,Cono simple,5,24.72
+V20-059,2026-09-07,Miraflores,Copa de helado,3,35.0
+V20-011,2026-09-08,San Isidro,Litro de helado,1,27.55
+V20-047,2026-09-09,San Isidro,Cono simple,4,19.56
+V20-050,2026-09-09,Miraflores,Litro de helado,3,83.74
+V20-015,2026-09-11,Miraflores,Litro de helado,5,136.47
+V20-032,2026-09-11,Miraflores,Milkshake,3,33.74
+V20-031,2026-09-12,Miraflores,Copa de helado,3,36.66
+V20-060,2026-09-12,Miraflores,Litro de helado,6,167.2
+V20-017,2026-09-13,La Molina,Litro de helado,7,196.37
+V20-019,2026-09-13,San Isidro,Milkshake,3,33.2
+V20-027,2026-09-13,San Isidro,Cono simple,3,15.05
+V20-029,2026-09-13,Miraflores,Copa de helado,3,36.72
+V20-009,2026-09-14,Miraflores,Cono simple,3,14.67
+V20-046,2026-09-14,Lima Centro,Copa de helado,6,73.51
+V20-048,2026-09-14,San Isidro,Cono simple,3,14.82
+V20-006,2026-09-15,Miraflores,Barquillo,1,6.01
+V20-010,2026-09-15,La Molina,Litro de helado,7,192.03
+V20-013,2026-09-15,La Molina,Cono simple,3,15.34
+V20-037,2026-09-15,San Isidro,Copa de helado,4,49.11
+V20-045,2026-09-15,La Molina,Barquillo,2,12.03
+V20-003,2026-09-16,Surco,Copa de helado,7,84.19
+V20-014,2026-09-16,La Molina,Cono simple,5,25.56
+V20-034,2026-09-16,Miraflores,Cono doble,7,56.17
+V20-042,2026-09-16,Lima Centro,Milkshake,3,32.87
+V20-043,2026-09-16,Miraflores,Copa de helado,4,47.07
+V20-057,2026-09-16,San Isidro,Copa de helado,3,35.4
+V20-012,2026-09-17,Lima Centro,Copa de helado,3,36.29
+V20-049,2026-09-18,Lima Centro,Cono simple,3,15.15
+V20-008,2026-09-19,Surco,Copa de helado,5,60.84
+V20-005,2026-09-20,Miraflores,Milkshake,5,53.66
+V20-026,2026-09-21,San Isidro,Litro de helado,5,139.48
+V20-054,2026-09-21,Miraflores,Cono doble,3,24.28
+V20-020,2026-09-22,Lima Centro,Cono simple,6,29.82
+V20-002,2026-09-23,Surco,Cono simple,2,9.97
+V20-035,2026-09-23,Surco,Cono simple,3,14.89
+V20-024,2026-09-25,Miraflores,Copa de helado,3,35.28
+V20-040,2026-09-25,San Isidro,Copa de helado,3,36.68
+V20-041,2026-09-25,La Molina,Litro de helado,3,85.2
+V20-016,2026-09-26,La Molina,Copa de helado,4,48.94
+V20-039,2026-09-27,La Molina,Cono simple,5,25.01
+V20-004,2026-09-28,Miraflores,Copa de helado,7,83.22
+V20-030,2026-09-28,Surco,Cono simple,8,40.12
+V20-038,2026-09-28,Miraflores,Cono doble,2,16.23
+V20-021,2026-09-29,San Isidro,Copa de helado,4,47.57
+V20-053,2026-09-29,Lima Centro,Barquillo,3,18.15
+V20-036,2026-09-30,Lima Centro,Litro de helado,3,86.34

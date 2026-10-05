@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Artículo,Unidades,Monto_S
+V27-003,2026-09-01,Surco,Mochila deportiva,4,373.25
+V27-039,2026-09-02,Lima Centro,Raqueta,6,923.98
+V27-015,2026-09-03,La Molina,Zapatillas running,2,435.85
+V27-049,2026-09-03,Lima Centro,Camiseta deportiva,1,87.32
+V27-018,2026-09-04,Miraflores,Mochila deportiva,2,185.26
+V27-046,2026-09-04,Miraflores,Mochila deportiva,6,579.64
+V27-029,2026-09-05,Lima Centro,Raqueta,8,1171.79
+V27-059,2026-09-05,Surco,Mochila deportiva,3,276.69
+V27-060,2026-09-06,Lima Centro,Camiseta deportiva,2,170.7
+V27-007,2026-09-07,Lima Centro,Botella térmica,7,275.33
+V27-033,2026-09-07,San Isidro,Camiseta deportiva,2,169.38
+V27-044,2026-09-07,Miraflores,Pelota de fútbol,2,142.99
+V27-054,2026-09-07,Miraflores,Mochila deportiva,8,757.64
+V27-056,2026-09-07,Lima Centro,Zapatillas running,8,1804.31
+V27-031,2026-09-08,Surco,Zapatillas running,5,1121.76
+V27-034,2026-09-08,Surco,Zapatillas running,5,1110.05
+V27-057,2026-09-08,Surco,Pelota de fútbol,6,418.11
+V27-058,2026-09-08,San Isidro,Mochila deportiva,2,190.62
+V27-013,2026-09-10,Miraflores,Zapatillas running,1,216.87
+V27-010,2026-09-11,Lima Centro,Raqueta,2,299.82
+V27-005,2026-09-12,Surco,Pelota de fútbol,2,136.86
+V27-021,2026-09-12,Miraflores,Botella térmica,5,198.22
+V27-036,2026-09-12,San Isidro,Pelota de fútbol,3,211.2
+V27-043,2026-09-12,Lima Centro,Mochila deportiva,6,563.97
+V27-020,2026-09-13,Lima Centro,Camiseta deportiva,2,168.98
+V27-008,2026-09-14,Miraflores,Camiseta deportiva,4,346.83
+V27-041,2026-09-14,Lima Centro,Zapatillas running,6,1332.22
+V27-023,2026-09-15,Lima Centro,Pelota de fútbol,7,481.62
+V27-032,2026-09-15,Surco,Mochila deportiva,7,679.79
+V27-050,2026-09-15,San Isidro,Zapatillas running,8,1727.7
+V27-025,2026-09-16,Miraflores,Pelota de fútbol,5,350.06
+V27-001,2026-09-17,La Molina,Zapatillas running,5,1070.59
+V27-037,2026-09-17,Miraflores,Botella térmica,2,82.12
+V27-002,2026-09-18,Lima Centro,Raqueta,1,148.05
+V27-009,2026-09-18,Lima Centro,Mochila deportiva,1,93.37
+V27-012,2026-09-18,Surco,Pelota de fútbol,7,479.68
+V27-024,2026-09-18,Surco,Pelota de fútbol,2,141.89
+V27-019,2026-09-20,La Molina,Zapatillas running,7,1574.52
+V27-040,2026-09-20,Lima Centro,Botella térmica,6,244.25
+V27-026,2026-09-21,Surco,Pelota de fútbol,5,345.69
+V27-030,2026-09-21,Surco,Pelota de fútbol,2,141.76
+V27-035,2026-09-21,Surco,Camiseta deportiva,5,413.96
+V27-017,2026-09-22,Lima Centro,Botella térmica,4,164.4
+V27-045,2026-09-22,Lima Centro,Pelota de fútbol,1,69.92
+V27-006,2026-09-23,Surco,Zapatillas running,8,1732.16
+V27-027,2026-09-23,Surco,Zapatillas running,2,435.29
+V27-053,2026-09-23,Miraflores,Pelota de fútbol,2,143.16
+V27-014,2026-09-24,Miraflores,Zapatillas running,2,448.53
+V27-052,2026-09-25,Surco,Zapatillas running,1,220.38
+V27-055,2026-09-25,Lima Centro,Pelota de fútbol,8,552.89
+V27-016,2026-09-26,La Molina,Pelota de fútbol,2,139.81
+V27-038,2026-09-26,Miraflores,Pelota de fútbol,7,477.19
+V27-048,2026-09-26,La Molina,Raqueta,1,148.04
+V27-004,2026-09-27,Surco,Pelota de fútbol,7,489.69
+V27-028,2026-09-27,Miraflores,Camiseta deportiva,2,174.89
+V27-047,2026-09-27,Lima Centro,Zapatillas running,2,440.32
+V27-042,2026-09-28,Miraflores,Raqueta,7,1045.37
+V27-011,2026-09-29,La Molina,Zapatillas running,3,669.36
+V27-051,2026-09-29,Lima Centro,Pelota de fútbol,1,71.8
+V27-022,2026-09-30,La Molina,Pelota de fútbol,4,274.14

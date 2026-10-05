@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Juguete,Unidades,Monto_S
+V18-056,2026-09-01,Lima Centro,Juego de mesa,6,509.25
+V18-007,2026-09-02,Surco,Bloques de construcción,3,222.27
+V18-058,2026-09-02,Lima Centro,Bloques de construcción,5,384.34
+V18-034,2026-09-03,San Isidro,Rompecabezas,7,249.66
+V18-022,2026-09-04,San Isidro,Bloques de construcción,8,606.92
+V18-044,2026-09-04,Lima Centro,Bloques de construcción,2,151.99
+V18-052,2026-09-04,Surco,Muñeca,7,455.47
+V18-041,2026-09-05,Lima Centro,Muñeca,1,66.2
+V18-004,2026-09-06,Lima Centro,Rompecabezas,2,71.69
+V18-035,2026-09-06,San Isidro,Rompecabezas,6,204.01
+V18-021,2026-09-07,San Isidro,Carro a control remoto,3,363.82
+V18-039,2026-09-07,Lima Centro,Bloques de construcción,2,152.38
+V18-013,2026-09-09,Lima Centro,Juego de mesa,2,165.89
+V18-028,2026-09-09,Surco,Rompecabezas,3,106.57
+V18-050,2026-09-09,San Isidro,Juego de mesa,3,260.53
+V18-011,2026-09-10,San Isidro,Muñeca,8,514.91
+V18-038,2026-09-10,Surco,Bloques de construcción,3,226.17
+V18-042,2026-09-10,Surco,Rompecabezas,2,71.54
+V18-003,2026-09-11,La Molina,Carro a control remoto,3,349.87
+V18-017,2026-09-11,Miraflores,Bloques de construcción,2,147.16
+V18-059,2026-09-11,Surco,Bloques de construcción,4,305.51
+V18-009,2026-09-13,Surco,Bloques de construcción,2,154.4
+V18-024,2026-09-13,San Isidro,Muñeca,2,129.33
+V18-001,2026-09-14,La Molina,Bloques de construcción,5,371.15
+V18-018,2026-09-14,Miraflores,Peluche,7,342.79
+V18-019,2026-09-14,Surco,Bloques de construcción,5,363.83
+V18-033,2026-09-14,Lima Centro,Bloques de construcción,6,447.28
+V18-014,2026-09-15,Miraflores,Bloques de construcción,5,381.65
+V18-016,2026-09-16,La Molina,Juego de mesa,7,593.21
+V18-029,2026-09-16,La Molina,Peluche,2,98.26
+V18-051,2026-09-17,Lima Centro,Carro a control remoto,2,241.27
+V18-057,2026-09-17,La Molina,Bloques de construcción,7,523.34
+V18-053,2026-09-18,Surco,Juego de mesa,2,172.93
+V18-030,2026-09-19,Miraflores,Peluche,8,373.57
+V18-040,2026-09-19,San Isidro,Rompecabezas,2,70.23
+V18-032,2026-09-20,Miraflores,Juego de mesa,3,258.26
+V18-054,2026-09-20,San Isidro,Muñeca,1,64.26
+V18-002,2026-09-21,San Isidro,Rompecabezas,3,102.21
+V18-031,2026-09-21,San Isidro,Juego de mesa,8,672.94
+V18-048,2026-09-21,Miraflores,Carro a control remoto,6,723.75
+V18-049,2026-09-21,Surco,Muñeca,7,445.11
+V18-006,2026-09-22,Lima Centro,Juego de mesa,6,497.46
+V18-015,2026-09-22,San Isidro,Rompecabezas,7,239.73
+V18-036,2026-09-22,La Molina,Juego de mesa,4,330.51
+V18-005,2026-09-23,Lima Centro,Bloques de construcción,2,146.44
+V18-060,2026-09-23,Miraflores,Peluche,2,95.45
+V18-010,2026-09-24,Lima Centro,Rompecabezas,4,139.15
+V18-020,2026-09-24,Miraflores,Bloques de construcción,1,74.59
+V18-023,2026-09-24,Lima Centro,Rompecabezas,1,35.93
+V18-026,2026-09-24,Lima Centro,Peluche,2,94.1
+V18-037,2026-09-25,Lima Centro,Juego de mesa,2,167.24
+V18-046,2026-09-25,Miraflores,Muñeca,6,387.65
+V18-025,2026-09-26,La Molina,Rompecabezas,2,72.1
+V18-027,2026-09-26,La Molina,Rompecabezas,5,175.8
+V18-012,2026-09-27,San Isidro,Bloques de construcción,6,446.37
+V18-008,2026-09-28,Lima Centro,Rompecabezas,2,68.36
+V18-047,2026-09-29,San Isidro,Muñeca,8,512.79
+V18-043,2026-09-30,Lima Centro,Peluche,4,195.52
+V18-045,2026-09-30,Surco,Peluche,8,394.79
+V18-055,2026-09-30,San Isidro,Rompecabezas,3,102.52

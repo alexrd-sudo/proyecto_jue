@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Medicamento,Unidades,Monto_S
+V02-006,2026-09-01,Miraflores,Vitamina C,2,35.74
+V02-024,2026-09-01,Lima Centro,Vitamina C,3,54.17
+V02-051,2026-09-03,La Molina,Vitamina C,1,18.48
+V02-016,2026-09-05,San Isidro,Paracetamol,2,12.04
+V02-001,2026-09-07,Miraflores,Suero oral,1,4.51
+V02-002,2026-09-07,La Molina,Vitamina C,6,108.92
+V02-032,2026-09-07,Surco,Paracetamol,8,48.74
+V02-007,2026-09-08,Surco,Alcohol 250 ml,2,13.69
+V02-011,2026-09-08,Surco,Jarabe para la tos,4,87.52
+V02-022,2026-09-08,La Molina,Jarabe para la tos,4,89.51
+V02-023,2026-09-08,San Isidro,Alcohol 250 ml,8,54.9
+V02-027,2026-09-08,Miraflores,Suero oral,8,35.59
+V02-029,2026-09-08,Surco,Vitamina C,2,36.69
+V02-054,2026-09-08,Lima Centro,Jarabe para la tos,7,155.97
+V02-053,2026-09-09,Surco,Ibuprofeno,4,35.36
+V02-058,2026-09-09,Surco,Vitamina C,4,72.45
+V02-036,2026-09-11,Miraflores,Paracetamol,4,24.55
+V02-038,2026-09-11,Lima Centro,Paracetamol,7,42.49
+V02-044,2026-09-11,Surco,Paracetamol,3,17.48
+V02-059,2026-09-11,La Molina,Ibuprofeno,4,35.21
+V02-039,2026-09-12,La Molina,Paracetamol,1,6.03
+V02-048,2026-09-12,Miraflores,Vitamina C,3,54.81
+V02-010,2026-09-13,San Isidro,Ibuprofeno,1,8.84
+V02-037,2026-09-13,Lima Centro,Alcohol 250 ml,2,14.42
+V02-047,2026-09-13,Surco,Jarabe para la tos,4,87.65
+V02-031,2026-09-14,Surco,Suero oral,6,26.79
+V02-040,2026-09-14,Miraflores,Alcohol 250 ml,8,55.21
+V02-050,2026-09-14,Surco,Jarabe para la tos,5,111.63
+V02-004,2026-09-15,San Isidro,Vitamina C,4,73.09
+V02-017,2026-09-15,San Isidro,Suero oral,2,9.12
+V02-028,2026-09-15,San Isidro,Vitamina C,4,73.19
+V02-035,2026-09-15,Lima Centro,Paracetamol,3,18.45
+V02-056,2026-09-15,Lima Centro,Paracetamol,4,24.54
+V02-055,2026-09-17,San Isidro,Ibuprofeno,4,36.05
+V02-012,2026-09-19,Miraflores,Ibuprofeno,4,37.02
+V02-013,2026-09-19,La Molina,Paracetamol,5,30.01
+V02-018,2026-09-19,Surco,Vitamina C,1,17.57
+V02-033,2026-09-19,Miraflores,Ibuprofeno,8,73.03
+V02-030,2026-09-20,Surco,Ibuprofeno,4,36.74
+V02-045,2026-09-20,Miraflores,Alcohol 250 ml,4,28.36
+V02-015,2026-09-21,La Molina,Vitamina C,5,92.65
+V02-025,2026-09-21,La Molina,Alcohol 250 ml,1,6.92
+V02-042,2026-09-21,Surco,Vitamina C,7,125.63
+V02-020,2026-09-22,Surco,Vitamina C,1,17.67
+V02-041,2026-09-22,Miraflores,Jarabe para la tos,3,66.99
+V02-003,2026-09-23,Surco,Ibuprofeno,2,17.96
+V02-009,2026-09-25,Miraflores,Paracetamol,4,24.53
+V02-052,2026-09-25,Surco,Paracetamol,1,5.84
+V02-046,2026-09-26,San Isidro,Ibuprofeno,4,35.54
+V02-060,2026-09-27,Lima Centro,Alcohol 250 ml,4,27.76
+V02-014,2026-09-28,Surco,Paracetamol,8,47.05
+V02-019,2026-09-28,La Molina,Vitamina C,7,128.31
+V02-026,2026-09-28,San Isidro,Vitamina C,4,71.46
+V02-043,2026-09-28,San Isidro,Ibuprofeno,7,63.48
+V02-057,2026-09-28,Miraflores,Paracetamol,2,12.08
+V02-005,2026-09-29,Miraflores,Suero oral,3,13.13
+V02-008,2026-09-29,Surco,Vitamina C,4,70.87
+V02-034,2026-09-29,Miraflores,Paracetamol,4,23.65
+V02-021,2026-09-30,San Isidro,Paracetamol,4,24.67
+V02-049,2026-09-30,La Molina,Suero oral,5,22.99

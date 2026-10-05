@@ -1,0 +1,61 @@
+ID_Venta,Fecha,Sucursal,Artículo,Unidades,Monto_S
+V05-015,2026-09-01,Surco,Lapicero azul,3,4.51
+V05-034,2026-09-01,Surco,Lapicero azul,3,4.49
+V05-057,2026-09-01,Surco,Lapicero azul,3,4.57
+V05-048,2026-09-02,La Molina,Lapicero azul,3,4.5
+V05-022,2026-09-03,Surco,Cuaderno A4,1,5.66
+V05-019,2026-09-04,Miraflores,Mochila escolar,2,130.75
+V05-021,2026-09-04,Surco,Lapicero azul,7,10.25
+V05-041,2026-09-04,La Molina,Lapicero azul,3,4.61
+V05-053,2026-09-04,Lima Centro,Lapicero azul,2,3.02
+V05-036,2026-09-05,La Molina,Cuaderno A4,5,27.97
+V05-040,2026-09-05,Lima Centro,Plumones x12,3,33.4
+V05-050,2026-09-05,La Molina,Mochila escolar,7,467.72
+V05-056,2026-09-06,Miraflores,Cuaderno A4,3,16.46
+V05-004,2026-09-07,Surco,Block de dibujo,1,7.06
+V05-024,2026-09-07,Miraflores,Plumones x12,3,32.51
+V05-029,2026-09-07,Miraflores,Block de dibujo,7,47.93
+V05-038,2026-09-09,La Molina,Plumones x12,5,56.3
+V05-044,2026-09-10,Miraflores,Mochila escolar,3,196.65
+V05-046,2026-09-11,Miraflores,Cuaderno A4,8,45.14
+V05-059,2026-09-11,Surco,Calculadora,8,222.88
+V05-007,2026-09-12,La Molina,Lapicero azul,8,12.26
+V05-039,2026-09-12,Surco,Block de dibujo,4,27.97
+V05-017,2026-09-13,Lima Centro,Calculadora,4,110.42
+V05-030,2026-09-13,La Molina,Cuaderno A4,7,37.75
+V05-018,2026-09-15,Surco,Cuaderno A4,2,10.69
+V05-011,2026-09-16,Miraflores,Mochila escolar,2,133.15
+V05-020,2026-09-16,Surco,Mochila escolar,6,385.38
+V05-026,2026-09-16,Surco,Cuaderno A4,3,16.03
+V05-032,2026-09-16,Surco,Mochila escolar,7,450.36
+V05-045,2026-09-16,La Molina,Cuaderno A4,7,39.59
+V05-051,2026-09-16,San Isidro,Mochila escolar,3,194.44
+V05-058,2026-09-16,Surco,Cuaderno A4,5,27.08
+V05-006,2026-09-17,La Molina,Mochila escolar,1,64.26
+V05-014,2026-09-18,Surco,Calculadora,3,84.34
+V05-001,2026-09-19,Miraflores,Mochila escolar,3,196.12
+V05-008,2026-09-19,Lima Centro,Cuaderno A4,6,33.81
+V05-042,2026-09-19,San Isidro,Mochila escolar,7,464.38
+V05-043,2026-09-19,Miraflores,Mochila escolar,3,191.52
+V05-023,2026-09-20,Surco,Mochila escolar,3,200.77
+V05-047,2026-09-20,San Isidro,Mochila escolar,7,468.1
+V05-055,2026-09-20,Surco,Plumones x12,4,44.57
+V05-028,2026-09-22,Miraflores,Cuaderno A4,3,16.44
+V05-035,2026-09-22,La Molina,Mochila escolar,1,64.48
+V05-010,2026-09-23,Miraflores,Cuaderno A4,1,5.48
+V05-012,2026-09-23,Surco,Cuaderno A4,7,38.62
+V05-033,2026-09-23,San Isidro,Calculadora,8,224.41
+V05-049,2026-09-23,Miraflores,Mochila escolar,1,64.42
+V05-005,2026-09-24,Miraflores,Mochila escolar,8,515.0
+V05-009,2026-09-24,La Molina,Block de dibujo,7,49.84
+V05-016,2026-09-24,San Isidro,Mochila escolar,3,199.18
+V05-037,2026-09-24,Surco,Mochila escolar,2,130.71
+V05-060,2026-09-25,La Molina,Calculadora,3,86.29
+V05-013,2026-09-26,Surco,Calculadora,3,83.88
+V05-003,2026-09-27,La Molina,Cuaderno A4,2,11.28
+V05-027,2026-09-27,La Molina,Mochila escolar,1,64.86
+V05-031,2026-09-27,Miraflores,Cuaderno A4,6,32.57
+V05-052,2026-09-27,Surco,Calculadora,4,115.31
+V05-002,2026-09-28,Surco,Mochila escolar,7,451.5
+V05-054,2026-09-28,Surco,Plumones x12,8,86.62
+V05-025,2026-09-30,Surco,Calculadora,8,229.95
